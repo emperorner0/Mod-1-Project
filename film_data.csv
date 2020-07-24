@@ -1,0 +1,336 @@
+title,release_date,runtime,genres,budget,revenue
+Avengers: Endgame,2019-04-24,181,"['Adventure', 'Science Fiction', 'Action']",356000000,2797800564
+Star Wars: The Force Awakens,2015-12-15,136,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",245000000,2068223624
+Avengers: Infinity War,2018-04-25,149,"['Adventure', 'Action', 'Science Fiction']",300000000,2046239637
+Jurassic World,2015-06-06,124,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",150000000,1671713208
+The Lion King,2019-07-12,118,"['Adventure', 'Family', 'Music']",260000000,1656943394
+The Avengers,2012-04-25,143,"['Science Fiction', 'Action', 'Adventure']",220000000,1519557910
+Furious 7,2015-04-01,137,"['Action', 'Thriller']",190000000,1515047671
+Frozen II,2019-11-20,104,"['Animation', 'Family', 'Adventure']",150000000,1450026933
+Avengers: Age of Ultron,2015-04-22,141,"['Action', 'Adventure', 'Science Fiction']",250000000,1405403694
+Black Panther,2018-02-13,134,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",200000000,1346739107
+Harry Potter and the Deathly Hallows: Part 2,2011-07-07,130,"['Fantasy', 'Adventure']",125000000,1341511219
+Star Wars: The Last Jedi,2017-12-13,152,"['Science Fiction', 'Action', 'Adventure']",200000000,1332539889
+Jurassic World: Fallen Kingdom,2018-06-06,129,"['Action', 'Adventure', 'Science Fiction']",170000000,1303459585
+Frozen,2013-11-27,102,"['Animation', 'Adventure', 'Family']",150000000,1274219009
+Beauty and the Beast,2017-03-16,129,"['Family', 'Fantasy', 'Romance']",160000000,1263521126
+Incredibles 2,2018-06-14,118,"['Action', 'Adventure', 'Animation', 'Family']",200000000,1242805359
+The Fate of the Furious,2017-04-12,136,"['Action', 'Crime', 'Thriller']",250000000,1238764765
+Iron Man 3,2013-04-18,130,"['Action', 'Adventure', 'Science Fiction']",200000000,1214811252
+Minions,2015-06-17,91,"['Family', 'Animation', 'Adventure', 'Comedy']",74000000,1156730962
+Captain America: Civil War,2016-04-27,147,"['Adventure', 'Action', 'Science Fiction']",250000000,1153296293
+Aquaman,2018-12-07,144,"['Action', 'Adventure', 'Fantasy']",160000000,1148461807
+Spider-Man: Far from Home,2019-06-28,129,"['Action', 'Adventure', 'Science Fiction']",160000000,1131927996
+Captain Marvel,2019-03-06,124,"['Action', 'Adventure', 'Science Fiction']",152000000,1128274794
+Transformers: Dark of the Moon,2011-06-28,154,"['Action', 'Science Fiction', 'Adventure']",195000000,1123794079
+Skyfall,2012-10-25,143,"['Action', 'Adventure', 'Thriller']",200000000,1108561013
+Transformers: Age of Extinction,2014-06-25,165,"['Science Fiction', 'Action', 'Adventure']",210000000,1104054072
+The Dark Knight Rises,2012-07-16,165,"['Action', 'Crime', 'Drama', 'Thriller']",250000000,1081041287
+Joker,2019-10-02,122,"['Crime', 'Thriller', 'Drama']",55000000,1074251311
+Star Wars: The Rise of Skywalker,2019-12-18,142,"['Action', 'Adventure', 'Science Fiction']",250000000,1074144248
+Toy Story 4,2019-06-19,100,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",175000000,1073394593
+Toy Story 3,2010-06-16,103,"['Animation', 'Family', 'Comedy']",200000000,1066969703
+Rogue One: A Star Wars Story,2016-12-14,133,"['Action', 'Adventure', 'Science Fiction']",200000000,1056057273
+Aladdin,2019-05-22,128,"['Adventure', 'Fantasy', 'Romance', 'Family']",183000000,1047612394
+Pirates of the Caribbean: On Stranger Tides,2011-05-14,136,"['Adventure', 'Action', 'Fantasy']",380000000,1045713802
+Despicable Me 3,2017-06-15,96,"['Action', 'Animation', 'Comedy', 'Family', 'Adventure']",80000000,1031552585
+Finding Dory,2016-06-16,97,"['Adventure', 'Animation', 'Comedy', 'Family']",200000000,1028570889
+Alice in Wonderland,2010-03-03,108,"['Family', 'Fantasy', 'Adventure']",200000000,1025467110
+Zootopia,2016-02-11,109,"['Animation', 'Adventure', 'Family', 'Comedy']",150000000,1023784195
+The Hobbit: An Unexpected Journey,2012-11-26,169,"['Adventure', 'Fantasy', 'Action']",250000000,1021103568
+In The Mood For Surrealism or 8021,2018-04-24,2,"['Action', 'Drama', 'Comedy', 'Documentary']",0,1000000000
+Despicable Me 2,2013-06-25,98,"['Animation', 'Comedy', 'Family']",76000000,970761885
+The Jungle Book,2016-04-07,106,"['Adventure', 'Drama', 'Family', 'Fantasy']",175000000,966550600
+Jumanji: Welcome to the Jungle,2017-12-09,119,"['Action', 'Adventure', 'Comedy', 'Fantasy']",90000000,962102237
+The Hobbit: The Desolation of Smaug,2013-12-11,161,"['Adventure', 'Fantasy', 'Action']",250000000,958400000
+The Hobbit: The Battle of the Five Armies,2014-12-10,144,"['Action', 'Adventure', 'Fantasy']",250000000,956019788
+Harry Potter and the Deathly Hallows: Part 1,2010-10-17,146,"['Adventure', 'Fantasy']",250000000,954305868
+Bohemian Rhapsody,2018-10-24,135,"['Drama', 'Music']",52000000,894027543
+Spectre,2015-10-26,148,"['Action', 'Adventure', 'Thriller']",245000000,880674609
+Spider-Man: Homecoming,2017-07-05,133,"['Action', 'Adventure', 'Science Fiction', 'Drama']",175000000,880166924
+Ice Age: Continental Drift,2012-06-26,88,"['Animation', 'Comedy', 'Adventure', 'Family']",95000000,877244782
+The Secret Life of Pets,2016-06-18,87,"['Adventure', 'Comedy', 'Animation', 'Family']",75000000,875457937
+Batman v Superman: Dawn of Justice,2016-03-23,151,"['Action', 'Adventure', 'Fantasy']",250000000,873634919
+战狼2,2017-07-27,126,"['War', 'Action', 'Drama']",29700000,870322670
+Guardians of the Galaxy Vol. 2,2017-04-19,137,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",200000000,863756051
+Inside Out,2015-06-09,95,"['Drama', 'Comedy', 'Animation', 'Family']",175000000,857611174
+Venom,2018-09-28,112,"['Science Fiction', 'Action']",116000000,855013954
+Thor: Ragnarok,2017-10-25,131,"['Action', 'Adventure', 'Comedy', 'Fantasy']",180000000,853977126
+The Hunger Games: Catching Fire,2013-11-15,146,"['Adventure', 'Action', 'Science Fiction']",130000000,847423452
+The Twilight Saga: Breaking Dawn - Part 2,2012-11-13,115,"['Adventure', 'Fantasy', 'Drama', 'Romance']",120000000,829000000
+Inception,2010-07-15,148,"['Action', 'Science Fiction', 'Adventure']",160000000,825532764
+Wonder Woman,2017-05-30,141,"['Action', 'Adventure', 'Fantasy']",149000000,821847012
+Fantastic Beasts and Where to Find Them,2016-11-16,133,"['Adventure', 'Family', 'Fantasy']",180000000,809342332
+Coco,2017-10-27,105,"['Animation', 'Family', 'Comedy', 'Adventure', 'Fantasy']",175000000,800526015
+Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-23,129,"['Adventure', 'Action', 'Fantasy', 'Comedy']",230000000,794861794
+Mission: Impossible - Fallout,2018-07-13,148,"['Action', 'Adventure']",178000000,791017452
+Fast & Furious 6,2013-05-21,131,"['Action', 'Thriller', 'Crime']",160000000,788679850
+Deadpool,2016-02-09,108,"['Action', 'Adventure', 'Comedy']",58000000,783100000
+Guardians of the Galaxy,2014-07-30,121,"['Action', 'Science Fiction', 'Adventure']",170000000,772776600
+Fast & Furious Presents: Hobbs & Shaw,2019-08-01,137,"['Action', 'Adventure', 'Comedy']",200000000,760098996
+Maleficent,2014-05-28,97,"['Fantasy', 'Adventure', 'Action', 'Family', 'Romance']",180000000,758539785
+The Amazing Spider-Man,2012-06-23,136,"['Action', 'Adventure', 'Fantasy']",215000000,757930663
+Shrek Forever After,2010-05-16,93,"['Comedy', 'Adventure', 'Fantasy', 'Animation', 'Family']",165000000,752600867
+The Hunger Games: Mockingjay - Part 1,2014-11-19,123,"['Science Fiction', 'Adventure', 'Thriller']",125000000,752100229
+X-Men: Days of Future Past,2014-05-15,131,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",250000000,747862775
+Madagascar 3: Europe's Most Wanted,2012-06-06,93,"['Animation', 'Family', 'Comedy']",145000000,746921274
+Suicide Squad,2016-08-03,123,"['Action', 'Adventure', 'Crime', 'Fantasy', 'Science Fiction']",175000000,746846894
+Monsters University,2013-06-20,104,"['Animation', 'Family']",200000000,743559607
+Deadpool 2,2018-05-10,119,"['Action', 'Comedy', 'Adventure']",110000000,741547413
+Gravity,2013-10-03,91,"['Science Fiction', 'Thriller', 'Drama']",105000000,723192705
+Captain America: The Winter Soldier,2014-03-20,136,"['Action', 'Adventure', 'Science Fiction']",170000000,714766572
+The Twilight Saga: Breaking Dawn - Part 1,2011-11-16,117,"['Adventure', 'Fantasy', 'Romance']",110000000,712171856
+Dawn of the Planet of the Apes,2014-06-26,130,"['Science Fiction', 'Action', 'Drama', 'Thriller']",170000000,710644566
+The Amazing Spider-Man 2,2014-04-16,142,"['Action', 'Adventure', 'Fantasy']",200000000,708962323
+It,2017-09-06,135,['Horror'],35000000,701796444
+The Twilight Saga: Eclipse,2010-06-23,124,"['Adventure', 'Fantasy', 'Drama', 'Romance']",68000000,698491347
+Moana,2016-11-23,107,"['Adventure', 'Comedy', 'Family', 'Animation']",150000000,695331111
+Mission: Impossible - Ghost Protocol,2011-12-07,133,"['Action', 'Thriller', 'Adventure']",145000000,694713380
+The Hunger Games,2012-03-12,142,"['Science Fiction', 'Adventure', 'Fantasy']",75000000,691210692
+哪吒之魔童降世,2019-07-26,110,"['Animation', 'Fantasy', 'Comedy']",0,686067000
+Mission: Impossible - Rogue Nation,2015-07-23,131,"['Action', 'Adventure']",150000000,682330139
+Doctor Strange,2016-10-25,115,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",165000000,677700000
+Interstellar,2014-11-05,169,"['Adventure', 'Drama', 'Science Fiction']",165000000,675120017
+Man of Steel,2013-06-12,143,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",225000000,668045518
+Kung Fu Panda 2,2011-05-25,91,"['Animation', 'Family']",150000000,665692281
+Justice League,2017-11-15,120,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",300000000,657924295
+Big Hero 6,2014-10-24,102,"['Adventure', 'Family', 'Animation', 'Action', 'Comedy']",165000000,657827828
+The Hunger Games: Mockingjay - Part 2,2015-11-18,137,"['Action', 'Adventure', 'Science Fiction']",160000000,653428261
+Fantastic Beasts: The Crimes of Grindelwald,2018-11-14,134,"['Adventure', 'Fantasy', 'Family']",200000000,653355901
+Thor: The Dark World,2013-10-29,112,"['Action', 'Adventure', 'Fantasy']",170000000,644571402
+Sing,2016-11-23,108,"['Animation', 'Comedy', 'Drama', 'Family']",75000000,634151679
+The Martian,2015-09-30,141,"['Drama', 'Adventure', 'Science Fiction']",108000000,630161890
+Fast Five,2011-04-20,130,"['Action', 'Thriller', 'Crime']",125000000,626137675
+Men in Black 3,2012-05-23,106,"['Action', 'Comedy', 'Science Fiction']",225000000,624026776
+Iron Man 2,2010-04-28,124,"['Adventure', 'Action', 'Science Fiction']",200000000,623933331
+Ant-Man and the Wasp,2018-07-04,119,"['Action', 'Adventure', 'Science Fiction', 'Comedy']",140000000,622674139
+Logan,2017-02-28,137,"['Action', 'Drama', 'Science Fiction']",97000000,619021436
+How to Train Your Dragon 2,2014-06-09,102,"['Fantasy', 'Action', 'Adventure', 'Animation', 'Comedy', 'Family']",145000000,609123048
+Life of Pi,2012-11-20,127,"['Adventure', 'Drama', 'Action']",120000000,609016565
+Transformers: The Last Knight,2017-06-16,149,"['Action', 'Science Fiction', 'Thriller', 'Adventure']",217000000,605425157
+Tangled,2010-11-24,100,"['Animation', 'Family']",260000000,591794936
+The Croods,2013-03-20,98,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",135000000,587204668
+Ready Player One,2018-03-28,140,"['Adventure', 'Science Fiction']",175000000,582890172
+红海行动,2018-02-16,142,"['Action', 'Thriller', 'War', 'Drama']",70000000,579220560
+Fifty Shades of Grey,2015-02-11,125,"['Drama', 'Romance', 'Thriller']",4000000,571006128
+Kong: Skull Island,2017-03-08,118,"['Action', 'Adventure', 'Fantasy']",185000000,566652812
+The Smurfs,2011-07-29,103,"['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']",110000000,563749323
+Cars 2,2011-06-11,106,"['Animation', 'Family', 'Adventure', 'Comedy']",200000000,559852396
+Puss in Boots,2011-10-28,90,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Comedy']",130000000,554987477
+美人鱼,2016-02-08,93,"['Comedy', 'Fantasy', 'Romance']",60720000,553810228
+Ted,2012-06-29,107,"['Comedy', 'Fantasy']",50000000,549368315
+X-Men: Apocalypse,2016-05-18,144,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",178000000,543934787
+Cinderella,2015-03-12,105,"['Romance', 'Fantasy', 'Family', 'Drama']",95000000,543514353
+Despicable Me,2010-07-08,95,"['Animation', 'Family']",69000000,543513985
+American Sniper,2014-12-11,133,"['War', 'Action']",58800000,542307423
+Brave,2012-06-21,93,"['Animation', 'Adventure', 'Comedy', 'Family', 'Action', 'Fantasy']",185000000,538983207
+The Revenant,2015-12-25,157,"['Western', 'Drama', 'Adventure']",135000000,532950503
+World War Z,2013-06-20,116,"['Action', 'Drama', 'Horror', 'Science Fiction', 'Thriller']",200000000,531865000
+The Meg,2018-08-09,113,"['Action', 'Science Fiction', 'Horror']",150000000,530243742
+Ralph Breaks the Internet,2018-11-20,112,"['Family', 'Animation', 'Comedy', 'Adventure']",175000000,529221154
+Godzilla,2014-05-14,123,"['Action', 'Drama', 'Science Fiction']",160000000,529076069
+Dunkirk,2017-07-19,107,"['War', 'Action', 'Drama']",100000000,525573161
+Kung Fu Panda 3,2016-01-23,95,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",145000000,521170825
+Ant-Man,2015-07-14,117,"['Science Fiction', 'Action', 'Adventure']",130000000,519311965
+How to Train Your Dragon: The Hidden World,2019-01-03,104,"['Animation', 'Family', 'Adventure']",129000000,517526875
+The Grinch,2018-11-08,90,"['Animation', 'Family', 'Comedy', 'Fantasy']",75000000,508575295
+Rio 2,2014-03-19,102,"['Adventure', 'Comedy', 'Family', 'Animation']",103000000,500188435
+The Boss Baby,2017-03-23,97,"['Animation', 'Comedy', 'Family']",125000000,498814908
+How to Train Your Dragon,2010-03-10,100,"['Fantasy', 'Adventure', 'Animation', 'Family']",165000000,494878759
+Clash of the Titans,2010-04-01,106,"['Adventure', 'Fantasy', 'Action']",125000000,493214993
+Oz the Great and Powerful,2013-03-07,130,"['Fantasy', 'Adventure', 'Family']",200000000,491868548
+Maleficent: Mistress of Evil,2019-10-16,118,"['Fantasy', 'Family', 'Adventure']",185000000,491570967
+War for the Planet of the Apes,2017-07-11,140,"['Drama', 'Science Fiction', 'War']",150000000,488533726
+Rio,2011-04-03,96,"['Animation', 'Adventure', 'Comedy', 'Family']",90000000,484635760
+Rise of the Planet of the Apes,2011-08-03,105,"['Thriller', 'Action', 'Drama', 'Science Fiction']",93000000,482860185
+Teenage Mutant Ninja Turtles,2014-08-07,101,"['Science Fiction', 'Action', 'Adventure', 'Fantasy', 'Comedy']",125000000,477200000
+Hotel Transylvania 2,2015-09-21,89,"['Animation', 'Comedy', 'Family', 'Fantasy']",80000000,473226958
+It Chapter Two,2019-09-04,169,"['Horror', 'Fantasy']",79000000,473093228
+Wreck-It Ralph,2012-11-01,101,"['Family', 'Animation', 'Comedy', 'Adventure']",165000000,471222889
+San Andreas,2015-05-27,114,"['Action', 'Drama', 'Thriller']",110000000,470490832
+The Lego Movie,2014-02-06,100,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",60000000,469160692
+Bumblebee,2018-12-15,114,"['Action', 'Adventure', 'Science Fiction']",135000000,467989645
+Star Trek Into Darkness,2013-05-05,132,"['Action', 'Adventure', 'Science Fiction']",190000000,467365246
+Lucy,2014-07-25,89,"['Action', 'Science Fiction']",40000000,458863600
+Thor,2011-04-21,115,"['Adventure', 'Fantasy', 'Action']",150000000,449326618
+La La Land,2016-11-29,129,"['Comedy', 'Drama', 'Romance', 'Music']",30000000,446486224
+追龍,2017-09-28,128,"['Action', 'Crime', 'History']",200005000,445000000
+Les Misérables,2012-12-18,158,"['History', 'Drama']",61000000,441809770
+Terminator Genisys,2015-06-23,126,"['Science Fiction', 'Action', 'Thriller', 'Adventure']",155000000,440603537
+A Star Is Born,2018-10-03,136,"['Drama', 'Romance', 'Music']",36000000,433888866
+Warcraft,2016-05-25,123,"['Action', 'Adventure', 'Fantasy']",160000000,433677183
+Pokémon Detective Pikachu,2019-05-03,105,"['Action', 'Adventure', 'Fantasy']",150000000,433005346
+The Greatest Showman,2017-12-20,105,['Drama'],84000000,432844677
+"Metallica: WorldWired Tour - Live in Manchester, England - June 18, 2019",2020-06-08,150,['Music'],0,426900000
+Intouchables,2011-11-02,113,"['Drama', 'Comedy']",13000000,426480871
+Rampage,2018-04-12,107,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",120000000,426245950
+Django Unchained,2012-12-25,165,"['Drama', 'Western']",100000000,425368238
+Bad Boys for Life,2020-01-15,124,"['Thriller', 'Action', 'Crime']",90000000,419074646
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010-12-08,113,"['Adventure', 'Family', 'Fantasy']",155000000,415686217
+Jason Bourne,2016-07-27,123,"['Action', 'Thriller']",120000000,415484914
+The Wolverine,2013-07-23,126,"['Action', 'Science Fiction', 'Adventure', 'Fantasy']",120000000,415440673
+Kingsman: The Secret Service,2014-12-13,129,"['Crime', 'Comedy', 'Action', 'Adventure']",81000000,414351546
+The King's Speech,2010-09-06,118,"['Drama', 'History']",15000000,414211549
+Kingsman: The Golden Circle,2017-09-20,141,"['Action', 'Adventure', 'Comedy']",104000000,410902662
+The Mummy,2017-06-06,110,"['Fantasy', 'Thriller', 'Action', 'Adventure', 'Horror']",125000000,409231607
+Ice Age: Collision Course,2016-06-23,95,"['Adventure', 'Animation', 'Family', 'Comedy']",105000000,408579038
+Pacific Rim,2013-07-11,131,"['Action', 'Science Fiction', 'Adventure']",180000000,407602906
+Alita: Battle Angel,2019-01-31,122,"['Action', 'Science Fiction', 'Adventure']",170000000,404852543
+Prometheus,2012-05-30,124,"['Science Fiction', 'Adventure', 'Mystery']",130000000,403170142
+TRON: Legacy,2010-12-10,125,"['Adventure', 'Action', 'Science Fiction']",170000000,400062763
+Snow White and the Huntsman,2012-05-30,127,"['Adventure', 'Fantasy', 'Drama']",170000000,396600000
+Mamma Mia! Here We Go Again,2018-07-09,113,"['Comedy', 'Romance']",75000000,395044706
+Solo: A Star Wars Story,2018-05-15,135,"['Adventure', 'Science Fiction']",250000000,392952373
+The Wolf of Wall Street,2013-12-25,180,"['Crime', 'Drama', 'Comedy']",100000000,392000694
+Independence Day: Resurgence,2016-06-22,120,"['Action', 'Adventure', 'Science Fiction']",165000000,389681935
+Godzilla: King of the Monsters,2019-05-29,132,"['Science Fiction', 'Action']",170000000,386600138
+Cars 3,2017-06-15,102,"['Adventure', 'Animation', 'Comedy', 'Family']",175000000,383925276
+Mad Max: Fury Road,2015-05-13,121,"['Action', 'Adventure', 'Science Fiction']",150000000,378858340
+Fifty Shades Darker,2017-02-08,118,"['Drama', 'Romance']",55000000,378827494
+Taken 2,2012-09-27,91,"['Action', 'Crime', 'Thriller']",45000000,376141306
+Spider-Man: Into the Spider-Verse,2018-12-06,117,"['Action', 'Adventure', 'Animation', 'Science Fiction', 'Comedy']",90000000,375540831
+Once Upon a Time… in Hollywood,2019-07-24,162,"['Comedy', 'Drama', 'Thriller']",95000000,374251247
+Penguins of Madagascar,2014-11-22,92,"['Family', 'Animation', 'Adventure', 'Comedy']",132000000,373552094
+The Adventures of Tintin,2011-10-25,107,"['Adventure', 'Animation', 'Mystery']",130000000,371940071
+G.I. Joe: Retaliation,2013-03-26,110,"['Adventure', 'Action', 'Science Fiction', 'Thriller']",130000000,371876278
+Captain America: The First Avenger,2011-07-22,124,"['Action', 'Adventure', 'Science Fiction']",140000000,370569774
+Edge of Tomorrow,2014-05-27,113,"['Action', 'Science Fiction']",178000000,370541256
+Gone Girl,2014-10-01,149,"['Mystery', 'Thriller', 'Drama']",61000000,369330363
+Home,2015-03-18,94,"['Fantasy', 'Comedy', 'Animation', 'Science Fiction', 'Family']",135000000,368871007
+Fifty Shades Freed,2018-01-17,105,"['Drama', 'Romance']",55000000,368307760
+1917,2019-12-25,119,"['War', 'Drama', 'Action', 'History']",100000000,368027644
+The Nun,2018-09-05,96,"['Horror', 'Mystery', 'Thriller']",22000000,365550119
+Shazam!,2019-03-29,132,"['Action', 'Comedy', 'Fantasy']",80000000,363533271
+Night at the Museum: Secret of the Tomb,2014-12-17,97,"['Adventure', 'Comedy', 'Fantasy', 'Family']",127000000,363204635
+Noah,2014-03-07,138,"['Drama', 'Adventure']",125000000,362637473
+The Hangover Part III,2013-05-23,100,['Comedy'],103000000,362000072
+Hotel Transylvania,2012-09-20,91,"['Animation', 'Comedy', 'Family', 'Fantasy']",85000000,358375603
+君の名は。,2016-08-26,106,"['Romance', 'Animation', 'Drama']",0,357986087
+The Karate Kid,2010-06-10,140,"['Action', 'Adventure', 'Drama', 'Family']",40000000,357852395
+The Legend of Tarzan,2016-06-06,109,"['Action', 'Adventure']",180000000,356743061
+Journey 2: The Mysterious Island,2012-01-19,94,"['Adventure', 'Action', 'Science Fiction']",79000000,355692760
+X-Men: First Class,2011-06-01,132,"['Action', 'Science Fiction', 'Adventure']",160000000,353624124
+Murder on the Orient Express,2017-11-03,114,"['Crime', 'Drama', 'Mystery']",55000000,351839303
+Now You See Me,2013-05-29,116,"['Thriller', 'Crime']",75000000,351723989
+Peter Rabbit,2018-02-07,93,"['Animation', 'Adventure', 'Family']",50000000,351266433
+The Great Gatsby,2013-05-10,143,"['Drama', 'Romance']",105000000,351040419
+The Angry Birds Movie,2016-05-11,97,"['Animation', 'Adventure', 'Comedy']",73000000,349779543
+The Lorax,2012-03-01,86,"['Animation', 'Family']",70000000,348840316
+Mary Poppins Returns,2018-12-13,131,"['Fantasy', 'Family', 'Comedy']",130000000,348807090
+The Maze Runner,2014-09-10,113,"['Action', 'Mystery', 'Science Fiction', 'Thriller']",34000000,348319861
+Tom and Jerry Meet Sherlock Holmes,2010-08-24,49,"['Adventure', 'Animation', 'Family', 'Comedy']",35770488,347988775
+The Smurfs 2,2013-07-30,105,"['Fantasy', 'Family', 'Comedy', 'Animation']",105000000,347434178
+Trolls,2016-10-13,92,"['Adventure', 'Family', 'Comedy', 'Fantasy', 'Music', 'Animation']",125000000,346864462
+xXx: Return of Xander Cage,2017-01-13,107,"['Action', 'Adventure', 'Crime']",85000000,346147658
+Star Trek Beyond,2016-07-07,122,"['Action', 'Adventure', 'Science Fiction']",185000000,343471816
+Alvin and the Chipmunks: Chipwrecked,2011-12-14,87,"['Comedy', 'Fantasy', 'Family', 'Music', 'Animation']",75000000,342695435
+A Quiet Place,2018-04-03,91,"['Horror', 'Drama', 'Science Fiction']",17000000,340677200
+300: Rise of an Empire,2014-03-05,102,"['Action', 'War', 'Fantasy']",110000000,337580051
+Prince of Persia: The Sands of Time,2010-05-19,116,"['Adventure', 'Fantasy', 'Action']",150000000,335154643
+Now You See Me 2,2016-06-02,129,"['Action', 'Comedy', 'Thriller']",90000000,334901337
+Sherlock Holmes: A Game of Shadows,2011-11-22,129,"['Adventure', 'Action', 'Crime', 'Mystery']",125000000,334615000
+The Good Dinosaur,2015-11-14,93,"['Adventure', 'Animation', 'Family']",200000000,332207671
+The Great Wall,2016-12-16,103,"['Action', 'Adventure', 'Fantasy']",150000000,331957105
+Black Swan,2010-12-03,108,"['Drama', 'Thriller', 'Horror']",13000000,329398046
+John Wick: Chapter 3 - Parabellum,2019-05-15,131,"['Action', 'Thriller', 'Crime']",55000000,326709727
+Taken 3,2014-12-16,109,"['Thriller', 'Action']",48000000,325771424
+Megamind,2010-10-28,96,"['Animation', 'Action', 'Comedy', 'Family', 'Science Fiction']",130000000,321885765
+The Conjuring 2,2016-05-13,134,"['Horror', 'Mystery', 'Thriller']",40000000,320392818
+Green Book,2018-11-16,130,"['Drama', 'Comedy']",23000000,319700000
+The Conjuring,2013-03-20,112,"['Horror', 'Thriller']",13000000,319494638
+The Last Airbender,2010-06-30,103,"['Action', 'Adventure', 'Fantasy']",150000000,318502923
+The Expendables 2,2012-08-08,103,"['Action', 'Adventure', 'Thriller']",100000000,314975955
+Maze Runner: The Scorch Trials,2015-09-09,132,"['Action', 'Science Fiction', 'Thriller']",61000000,312296056
+Resident Evil: The Final Chapter,2016-12-23,107,"['Action', 'Horror', 'Science Fiction']",40000000,312242626
+The Lego Batman Movie,2017-02-08,104,"['Action', 'Animation', 'Comedy', 'Family', 'Fantasy']",80000000,311950384
+The SpongeBob Movie: Sponge Out of Water,2015-01-28,93,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Animation']",74000000,311594032
+Jumanji: The Next Level,2019-12-04,123,"['Adventure', 'Comedy', 'Fantasy']",125000000,310830000
+Robin Hood,2010-05-12,140,"['Action', 'Adventure', 'Drama']",200000000,310669540
+Little Fockers,2010-12-21,98,"['Comedy', 'Romance']",100000000,310650585
+दंगल,2016-12-21,161,"['Drama', 'Action']",10400000,310000000
+Knives Out,2019-11-27,131,"['Mystery', 'Thriller', 'Comedy', 'Drama', 'Crime']",40000000,309232797
+The Fault in Our Stars,2014-05-16,125,"['Romance', 'Drama']",12000000,307166834
+Rise of the Guardians,2012-11-21,97,"['Animation', 'Family', 'Fantasy', 'Action', 'Adventure']",145000000,306941670
+Sonic the Hedgehog,2020-02-12,99,"['Action', 'Science Fiction', 'Comedy', 'Family']",85000000,306766470
+Annabelle: Creation,2017-08-03,109,"['Horror', 'Mystery', 'Thriller']",15000000,306515884
+Wonder,2017-11-13,113,"['Drama', 'Family']",20000000,305937718
+A Good Day to Die Hard,2013-02-06,98,"['Action', 'Thriller']",92000000,304654182
+Passengers,2016-12-21,116,"['Drama', 'Romance', 'Science Fiction']",110000000,303144152
+Battleship,2012-04-11,131,"['Thriller', 'Action', 'Adventure', 'Science Fiction']",209000000,303025485
+Wrath of the Titans,2012-03-27,99,"['Fantasy', 'Adventure']",150000000,301970083
+Resident Evil: Afterlife,2010-09-09,97,"['Action', 'Adventure', 'Horror', 'Science Fiction']",60000000,300228084
+Alice Through the Looking Glass,2016-05-25,113,"['Adventure', 'Family', 'Fantasy']",170000000,299457024
+Real Steel,2011-09-28,127,"['Action', 'Science Fiction', 'Drama']",110000000,299268508
+Ocean's Eight,2018-06-07,111,"['Crime', 'Comedy', 'Action', 'Thriller']",70000000,297718711
+Miss Peregrine's Home for Peculiar Children,2016-09-28,127,"['Drama', 'Fantasy', 'Adventure', 'Family']",110000000,296482446
+Insurgent,2015-03-18,119,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",110000000,295238201
+Ferdinand,2017-12-09,107,"['Animation', 'Family', 'Adventure', 'Comedy']",111000000,295038508
+Shutter Island,2010-02-14,138,"['Drama', 'Thriller', 'Mystery']",80000000,294804195
+Salt,2010-07-21,100,"['Action', 'Mystery', 'Thriller']",110000000,293329073
+Skyscraper,2018-07-11,102,['Action'],125000000,292351275
+Pacific Rim: Uprising,2018-03-21,111,"['Action', 'Fantasy', 'Science Fiction', 'Adventure']",150000000,290061297
+Divergent,2014-03-14,139,"['Action', 'Adventure', 'Science Fiction']",85000000,288747895
+Bridesmaids,2011-05-13,125,"['Comedy', 'Romance']",32500000,288383523
+Sex and the City 2,2010-05-26,146,"['Comedy', 'Drama', 'Romance']",100000000,288347692
+Maze Runner: The Death Cure,2018-01-10,144,"['Action', 'Science Fiction']",62000000,288175335
+Pitch Perfect 2,2015-05-07,115,"['Comedy', 'Music']",29000000,287506194
+Oblivion,2013-04-10,124,"['Action', 'Science Fiction', 'Adventure', 'Mystery']",120000000,286168572
+Elysium,2013-08-07,109,"['Science Fiction', 'Action', 'Drama', 'Thriller']",115000000,286140700
+John Carter,2012-03-07,132,"['Action', 'Adventure', 'Science Fiction']",250000000,284139100
+Turbo,2013-07-11,96,"['Animation', 'Family']",135000000,282570682
+The Tourist,2010-12-08,103,"['Action', 'Thriller', 'Romance']",100000000,278731369
+Split,2017-01-20,150,"['Fantasy', 'Drama', 'Thriller', 'Crime']",9000000,278454378
+Split,2017-01-09,117,"['Horror', 'Thriller']",9000000,278454358
+寻龙诀,2015-12-18,127,"['Action', 'Adventure', 'Fantasy']",37000000,278300000
+The Bourne Legacy,2012-08-08,135,"['Action', 'Thriller']",130000000,276572938
+Baahubali 2: The Conclusion,2017-04-27,168,"['Action', 'Drama']",31000000,275947313
+Lincoln,2012-11-09,149,"['History', 'Drama']",65000000,275293450
+Tomb Raider,2018-03-05,118,"['Action', 'Adventure', 'Fantasy']",94000000,274650803
+The Expendables,2010-08-03,103,"['Thriller', 'Adventure', 'Action']",80000000,274470394
+Mr. Peabody & Sherman,2014-02-07,92,"['Animation', 'Adventure', 'Family']",145000000,272912430
+Grown Ups,2010-06-24,102,['Comedy'],80000000,271430189
+Neighbors,2014-05-08,96,['Comedy'],18000000,270665134
+We're the Millers,2013-08-07,110,"['Comedy', 'Crime']",37000000,269994119
+Epic,2013-05-15,102,"['Animation', 'Adventure', 'Family', 'Fantasy']",100000000,268426634
+Exodus: Gods and Kings,2014-12-03,150,"['Adventure', 'Drama', 'Action']",140000000,268031828
+Knight and Day,2010-06-15,109,"['Action', 'Comedy']",117000000,261930431
+Terminator: Dark Fate,2019-10-23,128,"['Action', 'Adventure', 'Science Fiction']",185000000,261119292
+Super 8,2011-06-08,112,"['Thriller', 'Science Fiction', 'Mystery']",50000000,260095986
+Blade Runner 2049,2017-10-04,163,"['Science Fiction', 'Drama']",150000000,259239658
+Paddington,2014-11-24,96,"['Comedy', 'Adventure', 'Family']",55000000,259207227
+Annabelle,2014-10-02,99,['Horror'],6500000,257047661
+Get Out,2017-02-24,104,"['Mystery', 'Thriller', 'Horror']",4500000,255407969
+Us,2019-03-14,116,"['Thriller', 'Horror', 'Mystery']",20000000,255105930
+The Hangover Part II,2011-05-25,102,['Comedy'],80000000,254455986
+功夫瑜伽,2017-01-27,130,"['Mystery', 'Action', 'Adventure', 'Comedy']",65000000,254212245
+Halloween,2018-10-18,106,['Horror'],10000000,253688035
+Men in Black: International,2019-06-12,115,"['Comedy', 'Science Fiction']",110000000,252608480
+Dark Phoenix,2019-06-05,114,"['Science Fiction', 'Action', 'Adventure']",200000000,252442974
+True Grit,2010-12-22,110,"['Drama', 'Adventure', 'Western']",38000000,252276927
+American Hustle,2013-12-12,138,"['Drama', 'Crime']",40000000,251171807
+Cloudy with a Chance of Meatballs 2,2013-09-26,95,"['Animation', 'Family', 'Comedy']",78000000,248384621
+Grown Ups 2,2013-07-11,100,['Comedy'],80000000,247022278
+Glass,2019-01-16,129,"['Thriller', 'Drama', 'Science Fiction']",20000000,246941965
+The Peanuts Movie,2015-11-01,88,"['Adventure', 'Comedy', 'Animation', 'Family']",99000000,246233113
+기생충,2019-05-30,133,"['Comedy', 'Thriller', 'Drama']",11363000,245924070
+Rango,2011-03-02,107,"['Animation', 'Comedy', 'Family', 'Western', 'Adventure']",135000000,245724603
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016-06-01,112,"['Action', 'Adventure', 'Comedy', 'Family', 'Science Fiction']",135000000,245623848
+Dark Shadows,2012-05-08,113,"['Comedy', 'Fantasy']",150000000,245527149
+Hercules,2014-07-23,99,"['Action', 'Adventure']",100000000,244819862
+After Earth,2013-05-30,100,"['Science Fiction', 'Action', 'Adventure']",130000000,243843127
+Pixels,2015-07-16,105,"['Action', 'Comedy', 'Science Fiction']",88000000,243637091
+Daddy's Home,2015-12-25,96,['Comedy'],50000000,242786137
+RoboCop,2014-01-30,102,"['Action', 'Science Fiction']",120000000,242688965
+Sully,2016-09-07,96,"['Drama', 'History']",60000000,240797623
+Assassin's Creed,2016-12-21,115,"['Action', 'Adventure', 'Science Fiction']",125000000,240697856
+Resident Evil: Retribution,2012-09-12,95,"['Action', 'Horror', 'Science Fiction']",65000000,240159255
+Crazy Rich Asians,2018-08-15,121,"['Comedy', 'Drama', 'Romance']",30000000,237994561
+Gulliver's Travels,2010-12-25,85,"['Comedy', 'Adventure', 'Family', 'Fantasy']",112000000,237382724
+Silver Linings Playbook,2012-09-08,122,"['Drama', 'Comedy', 'Romance']",21000000,236412453
+Spy,2015-05-06,120,"['Action', 'Comedy', 'Crime']",65000000,235666219
+American Reunion,2012-04-04,113,['Comedy'],50000000,234989584
+Alvin and the Chipmunks: The Road Chip,2015-12-17,92,"['Adventure', 'Animation', 'Comedy', 'Family']",0,233755553
+The Imitation Game,2014-11-14,113,"['History', 'Drama', 'Thriller', 'War']",14000000,233555708
+The Girl with the Dragon Tattoo,2011-12-14,158,"['Thriller', 'Crime', 'Mystery', 'Drama']",90000000,232617430
+Alien: Covenant,2017-05-09,122,"['Horror', 'Science Fiction']",97000000,232380243
+Argo,2012-10-11,120,"['Drama', 'Thriller']",44500000,232324128
