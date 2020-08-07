@@ -3,7 +3,7 @@ Avengers: Endgame,2019-04-24,PG-13,tt4154796,299534,181.0,"[['Adventure', 'Scien
 Star Wars: The Force Awakens,2015-12-15,PG-13,tt2488496,140607,136.0,"[['Action', 'Adventure', 'Science Fiction', 'Fantasy']]",245000000,2068223624
 Avengers: Infinity War,2018-04-25,PG-13,tt4154756,299536,149.0,"[['Adventure', 'Action', 'Science Fiction']]",300000000,2046239637
 Jurassic World,2015-06-06,PG-13,tt0369610,135397,124.0,"[['Action', 'Adventure', 'Science Fiction', 'Thriller']]",150000000,1671713208
-The Lion King,2019-07-12,PG,tt6105098,420818,118.0,"[['Adventure', 'Family']]",260000000,1656943394
+The Lion King,2019-07-12,PG,tt6105098,420818,118.0,"[['Adventure', 'Family', 'Music']]",260000000,1656943394
 The Avengers,2012-04-25,PG-13,tt0848228,24428,143.0,"[['Science Fiction', 'Action', 'Adventure']]",220000000,1519557910
 Furious 7,2015-04-01,PG-13,tt2820852,168259,137.0,"[['Action', 'Thriller']]",190000000,1515047671
 Frozen II,2019-11-20,PG,tt4520988,330457,104.0,"[['Animation', 'Family', 'Adventure']]",150000000,1450026933
@@ -60,7 +60,7 @@ Wonder Woman,2017-05-30,PG-13,tt0451279,297762,141.0,"[['Action', 'Adventure', '
 Fantastic Beasts and Where to Find Them,2016-11-16,PG-13,tt3183660,259316,133.0,"[['Adventure', 'Family', 'Fantasy']]",180000000,809342332
 Coco,2017-10-27,PG,tt2380307,354912,105.0,"[['Animation', 'Family', 'Comedy', 'Adventure', 'Fantasy']]",175000000,800526015
 Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-23,PG-13,tt1790809,166426,129.0,"[['Adventure', 'Action', 'Fantasy', 'Comedy']]",230000000,794861794
-Mission: Impossible - Fallout,2018-07-13,PG-13,tt4912910,353081,148.0,"[['Action', 'Adventure']]",178000000,791017452
+Mission: Impossible - Fallout,2018-07-13,PG-13,tt4912910,353081,147.0,"[['Action', 'Adventure']]",178000000,791017452
 Fast & Furious 6,2013-05-21,PG-13,tt1905041,82992,131.0,"[['Action', 'Thriller', 'Crime']]",160000000,788679850
 Deadpool,2016-02-09,R,tt1431045,293660,108.0,"[['Action', 'Adventure', 'Comedy']]",58000000,783100000
 Guardians of the Galaxy,2014-07-30,PG-13,tt2015381,118340,121.0,"[['Action', 'Science Fiction', 'Adventure']]",170000000,772776600
@@ -70,7 +70,7 @@ The Amazing Spider-Man,2012-06-23,PG-13,tt0948470,1930,136.0,"[['Action', 'Adven
 Shrek Forever After,2010-05-16,PG,tt0892791,10192,93.0,"[['Comedy', 'Adventure', 'Fantasy', 'Animation', 'Family']]",165000000,752600867
 The Hunger Games: Mockingjay - Part 1,2014-11-19,PG-13,tt1951265,131631,123.0,"[['Science Fiction', 'Adventure', 'Thriller']]",125000000,752100229
 X-Men: Days of Future Past,2014-05-15,PG-13,tt1877832,127585,131.0,"[['Action', 'Adventure', 'Fantasy', 'Science Fiction']]",250000000,747862775
-Madagascar 3: Europe's Most Wanted,2012-06-06,PG,tt1277953,80321,93.0,"[['Animation', 'Family', 'Comedy']]",145000000,746921274
+Madagascar 3: Europe's Most Wanted,2012-06-06,PG,tt1277953,80321,93.0,"[['Animation', 'Family', 'Comedy', 'Adventure']]",145000000,746921274
 Suicide Squad,2016-08-03,PG-13,tt1386697,297761,123.0,"[['Action', 'Adventure', 'Crime', 'Fantasy', 'Science Fiction']]",175000000,746846894
 Monsters University,2013-06-20,G,tt1453405,62211,104.0,"[['Animation', 'Family']]",200000000,743559607
 Deadpool 2,2018-05-10,PG-13,tt5463162,383498,119.0,"[['Action', 'Comedy', 'Adventure']]",110000000,741547413
@@ -138,10 +138,10 @@ War for the Planet of the Apes,2017-07-11,PG-13,tt3450958,281338,140.0,"[['Drama
 Rio,2011-04-03,G,tt1436562,46195,96.0,"[['Animation', 'Adventure', 'Comedy', 'Family']]",90000000,484635760
 Rise of the Planet of the Apes,2011-08-03,PG-13,tt1318514,61791,105.0,"[['Thriller', 'Action', 'Drama', 'Science Fiction']]",93000000,482860185
 Teenage Mutant Ninja Turtles,2014-08-07,PG-13,tt1291150,98566,101.0,"[['Science Fiction', 'Action', 'Adventure', 'Fantasy', 'Comedy']]",125000000,477200000
+San Andreas,2015-05-27,PG-13,tt2126355,254128,114.0,"[['Action', 'Drama', 'Thriller']]",110000000,473990832
 Hotel Transylvania 2,2015-09-21,PG,tt2510894,159824,89.0,"[['Animation', 'Comedy', 'Family', 'Fantasy']]",80000000,473226958
 It Chapter Two,2019-09-04,R,tt7349950,474350,169.0,"[['Horror', 'Fantasy']]",79000000,473093228
 Wreck-It Ralph,2012-11-01,PG,tt1772341,82690,101.0,"[['Family', 'Animation', 'Comedy', 'Adventure']]",165000000,471222889
-San Andreas,2015-05-27,PG-13,tt2126355,254128,114.0,"[['Action', 'Drama', 'Thriller']]",110000000,470490832
 The Lego Movie,2014-02-06,PG,tt1490017,137106,100.0,"[['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']]",60000000,469160692
 Bumblebee,2018-12-15,PG-13,tt4701182,424783,114.0,"[['Action', 'Adventure', 'Science Fiction']]",135000000,467989645
 Star Trek Into Darkness,2013-05-05,PG-13,tt1408101,54138,132.0,"[['Action', 'Adventure', 'Science Fiction']]",190000000,467365246
@@ -178,6 +178,7 @@ Mad Max: Fury Road,2015-05-13,R,tt1392190,76341,121.0,"[['Action', 'Adventure', 
 Fifty Shades Darker,2017-02-08,R,tt4465564,341174,118.0,"[['Drama', 'Romance']]",55000000,378827494
 Taken 2,2012-09-27,PG-13,tt1397280,82675,91.0,"[['Action', 'Crime', 'Thriller']]",45000000,376141306
 Spider-Man: Into the Spider-Verse,2018-12-06,PG,tt4633694,324857,117.0,"[['Action', 'Adventure', 'Animation', 'Science Fiction', 'Comedy']]",90000000,375540831
+1917,2019-12-25,R,tt8579674,530915,119.0,"[['War', 'Drama', 'Action', 'History']]",100000000,374733942
 Once Upon a Time… in Hollywood,2019-07-24,R,tt7131622,466272,162.0,"[['Comedy', 'Drama', 'Thriller']]",95000000,374251247
 Penguins of Madagascar,2014-11-22,PG,tt1911658,270946,92.0,"[['Family', 'Animation', 'Adventure', 'Comedy']]",132000000,373552094
 The Adventures of Tintin,2011-10-25,PG,tt0983193,17578,107.0,"[['Adventure', 'Animation', 'Mystery']]",130000000,371940071
@@ -187,7 +188,6 @@ Edge of Tomorrow,2014-05-27,PG-13,tt1631867,137113,113.0,"[['Action', 'Science F
 Gone Girl,2014-10-01,R,tt2267998,210577,149.0,"[['Mystery', 'Thriller', 'Drama']]",61000000,369330363
 Home,2015-03-18,PG,tt2224026,228161,94.0,"[['Fantasy', 'Comedy', 'Animation', 'Science Fiction', 'Family']]",135000000,368871007
 Fifty Shades Freed,2018-01-17,R,tt4477536,337167,105.0,"[['Drama', 'Romance']]",55000000,368307760
-1917,2019-12-25,R,tt8579674,530915,119.0,"[['War', 'Drama', 'Action', 'History']]",100000000,368027644
 The Nun,2018-09-05,R,tt5814060,439079,96.0,"[['Horror', 'Mystery', 'Thriller']]",22000000,365550119
 Shazam!,2019-03-29,PG-13,tt0448115,287947,132.0,"[['Action', 'Comedy', 'Fantasy']]",80000000,363533271
 Night at the Museum: Secret of the Tomb,2014-12-17,PG,tt2692250,181533,97.0,"[['Adventure', 'Comedy', 'Fantasy', 'Family']]",127000000,363204635
@@ -410,7 +410,7 @@ Identity Thief,2013-02-07,R,tt2024432,109431,111.0,"[['Comedy', 'Crime']]",35000
 In Time,2011-10-27,PG-13,tt1637688,49530,109.0,"[['Action', 'Thriller', 'Science Fiction']]",40000000,173930596
 Anchorman 2: The Legend Continues,2013-12-18,PG-13,tt1229340,109443,119.0,[['Comedy']],50000000,173649015
 Creed,2015-11-25,PG-13,tt3076658,312221,133.0,[['Drama']],37000000,173567581
-Gemini Man,2019-10-02,PG-13,tt1025100,453405,117.0,"[['Action', 'Thriller']]",138000000,173469516
+Gemini Man,2019-10-02,PG-13,tt1025100,453405,117.0,"[['Action', 'Science Fiction', 'Thriller']]",138000000,173469516
 The Girl on the Train,2016-10-05,R,tt3631112,346685,112.0,"[['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']]",45000000,173185859
 Spies in Disguise,2019-12-04,PG,tt5814534,431693,102.0,"[['Animation', 'Action', 'Adventure', 'Comedy']]",100000000,171616764
 John Wick: Chapter 2,2017-02-08,R,tt4425200,324552,122.0,"[['Thriller', 'Action', 'Crime']]",40000000,171539887
@@ -513,6 +513,7 @@ The Angry Birds Movie 2,2019-08-02,PG,tt6095472,454640,96.0,"[['Animation', 'Com
 Unknown,2011-02-16,PG-13,tt1401152,48138,113.0,"[['Action', 'Mystery', 'Thriller']]",30000000,130786397
 A Bad Moms Christmas,2017-08-04,R,tt6359956,431530,104.0,[['Comedy']],28000000,130560428
 Cloud Atlas,2012-10-26,R,tt1371111,83542,172.0,"[['Drama', 'Science Fiction']]",102000000,130482868
+The Invisible Man,2020-02-26,R,tt1051906,570670,124.0,"[['Thriller', 'Science Fiction', 'Horror']]",7000000,130234661
 Pan,2015-09-24,PG,tt3332064,266647,111.0,"[['Adventure', 'Family', 'Fantasy']]",150000000,128388320
 The Adjustment Bureau,2011-03-03,PG-13,tt1385826,38050,106.0,"[['Science Fiction', 'Thriller', 'Romance']]",50200000,127869379
 The Woman in Black,2012-02-03,PG-13,tt1596365,65086,95.0,"[['Drama', 'Horror', 'Thriller']]",17000000,127730736
@@ -527,7 +528,6 @@ Captain Underpants: The First Epic Movie,2017-06-01,PG,tt2091256,268531,89.0,"[[
 Ride Along 2,2016-01-14,PG-13,tt2869728,323675,102.0,"[['Action', 'Comedy']]",40000000,124827316
 The Theory of Everything,2014-11-26,PG-13,tt2980516,266856,123.0,"[['Drama', 'Romance']]",15000000,123726688
 Blended,2014-05-21,PG-13,tt1086772,232672,117.0,[['Comedy']],40000000,123494610
-The Invisible Man,2020-02-26,R,tt1051906,570670,124.0,"[['Thriller', 'Science Fiction', 'Horror']]",9000000,123414678
 Nanny McPhee and the Big Bang,2010-03-26,PG,tt1415283,35019,109.0,"[['Comedy', 'Fantasy', 'Family']]",25000000,123276807
 The Lego Ninjago Movie,2017-09-21,PG,tt3014284,274862,101.0,"[['Action', 'Animation', 'Adventure', 'Family']]",70000000,123081555
 Escape Plan,2013-10-09,R,tt1211956,107846,115.0,"[['Action', 'Thriller']]",50000000,122915111
@@ -1008,11 +1008,12 @@ Jobs,2013-08-16,PG-13,tt2357129,115782,128.0,"[['Drama', 'History']]",12000000,3
 The Best of Me,2014-10-15,PG-13,tt1972779,239571,117.0,"[['Drama', 'Romance']]",26000000,35926213
 Alpha,2018-08-17,PG-13,tt4244998,399360,97.0,"[['Adventure', 'Drama']]",51000000,35808437
 127 Hours,2010-11-05,R,tt1542344,44115,94.0,"[['Adventure', 'Drama', 'Thriller']]",18000000,35692920
-The Place Beyond the Pines,2012-09-07,R,tt1817273,97367,140.0,"[['Drama', 'Crime']]",15000000,35485608
+The Place Beyond the Pines,2013-03-14,R,tt1817273,97367,140.0,"[['Drama', 'Crime']]",15000000,35485608
 Arbitrage,2012-09-14,R,tt1764183,60599,100.0,"[['Drama', 'Thriller']]",12000000,35485056
 Room,2015-10-16,R,tt3170832,264644,117.0,"[['Drama', 'Thriller']]",6000000,35401758
 A Very Harold & Kumar Christmas,2011-11-04,R,tt1268799,55465,108.0,[['Comedy']],19000000,35387212
 Frankenweenie,2012-10-04,PG,tt1142977,62214,87.0,"[['Animation', 'Comedy', 'Family']]",39000000,35287788
+The Girl in the Spider's Web,2018-10-25,R,tt5177088,446807,117.0,"[['Action', 'Crime', 'Thriller', 'Drama']]",43000000,35164920
 My Week with Marilyn,2011-11-23,PG-13,tt1655420,75900,99.0,[['Drama']],6400000,35057696
 The Sitter,2011-12-09,R,tt1366344,57431,81.0,[['Comedy']],25000000,34942188
 Secret in Their Eyes,2015-10-14,PG-13,tt1741273,290751,111.0,"[['Crime', 'Drama', 'Mystery', 'Thriller']]",19500000,34854990
@@ -1147,7 +1148,7 @@ The Zookeeper's Wife,2017-03-31,PG-13,tt1730768,289222,126.0,"[['Drama', 'Histor
 Bad Santa 2,2016-11-23,R,tt1798603,338964,92.0,"[['Comedy', 'Crime', 'Drama', 'Mystery']]",26000000,23229371
 Hunt for the Wilderpeople,2016-03-31,PG-13,tt4698684,371645,101.0,"[['Adventure', 'Comedy', 'Drama']]",2500000,23200000
 The Way Way Back,2013-06-06,NR,tt1727388,147773,103.0,"[['Comedy', 'Drama']]",4600000,23198652
-Whiskey Tango Foxtrot,2016-03-04,R,tt3553442,279641,112.0,"[['War', 'Comedy']]",35000000,23083334
+Whiskey Tango Foxtrot,2016-03-04,R,tt3553442,279641,112.0,"[['Comedy', 'Drama', 'War']]",35000000,23083334
 Faster,2010-11-23,R,tt1433108,41283,98.0,"[['Crime', 'Drama', 'Action', 'Thriller']]",24000000,23081726
 Warrior,2011-09-09,PG-13,tt1291584,59440,140.0,"[['Drama', 'Action']]",25000000,23057115
 Mrs. Brown's Boys D'Movie,2014-06-27,PG-13,tt3433074,262340,94.0,[['Comedy']],5900000,23000000
@@ -1211,7 +1212,6 @@ Dead Man Down,2013-03-08,R,tt2101341,102362,118.0,"[['Thriller', 'Action', 'Crim
 Dope,2015-06-19,R,tt3850214,308639,103.0,"[['Crime', 'Drama', 'Comedy']]",700000,17986781
 The Lighthouse,2019-10-18,R,tt7984734,503919,109.0,"[['Drama', 'Fantasy', 'Mystery', 'Horror']]",4000000,17964238
 Chappaquiddick,2018-04-06,PG-13,tt5270948,432301,107.0,"[['Drama', 'Thriller', 'History']]",34000000,17904202
-The Girl in the Spider's Web,2018-10-25,R,tt5177088,446807,117.0,"[['Action', 'Crime', 'Thriller']]",43000000,17894345
 The Quiet Ones,2014-04-01,PG-13,tt2235779,193612,98.0,[['Horror']],200000,17834867
 Unforgettable,2017-03-06,R,tt3462710,418437,100.0,"[['Drama', 'Thriller']]",12000000,17768012
 Blackhat,2015-01-13,R,tt2717822,201088,133.0,"[['Crime', 'Thriller', 'Action']]",70000000,17752940
@@ -1243,7 +1243,7 @@ The Nutcracker,2010-11-24,PG,tt1041804,49852,110.0,"[['Music', 'Fantasy', 'Actio
 Suffragette,2015-10-16,PG-13,tt3077214,245168,106.0,"[['Drama', 'History']]",14000000,16002420
 The Birth of a Nation,2016-09-09,R,tt4196450,339408,120.0,[['Drama']],8500000,15861566
 "I, Daniel Blake",2016-10-21,R,tt5168192,374473,100.0,[['Drama']],0,15793051
-The Lobster,2015-07-10,R,tt3464902,254320,118.0,"[['Thriller', 'Comedy', 'Drama', 'Romance', 'Science Fiction']]",4000000,15656193
+The Lobster,2015-10-15,R,tt3464902,254320,118.0,"[['Thriller', 'Comedy', 'Drama', 'Romance', 'Science Fiction']]",4000000,15656193
 Tully,2018-05-04,R,tt5610554,400579,96.0,[['Drama']],0,15636462
 The Man with the Iron Fists,2012-11-02,R,tt1258972,97430,96.0,[['Action']],15000000,15608545
 Behind the Candelabra,2013-05-26,R,tt1291580,119675,118.0,"[['Drama', 'Romance']]",23000000,15600000
@@ -1266,7 +1266,7 @@ Parts Per Billion,2014-03-25,R,tt2495104,270654,98.0,[['Science Fiction']],13000
 Gold,2016-02-03,R,tt1800302,334524,121.0,"[['Adventure', 'Drama', 'Thriller']]",20000000,14880939
 Scouts Guide to the Zombie Apocalypse,2015-10-23,R,tt1727776,273477,93.0,"[['Comedy', 'Horror']]",15000000,14860766
 The Space Between Us,2017-01-26,PG-13,tt3922818,365942,121.0,"[['Romance', 'Adventure', 'Science Fiction', 'Drama']]",30000000,14793385
-Inherent Vice,2014-12-25,R,tt1791528,171274,148.0,"[['Comedy', 'Romance', 'Crime', 'Drama', 'Mystery']]",20000000,14710975
+Inherent Vice,2014-12-25,R,tt1791528,171274,149.0,"[['Comedy', 'Romance', 'Crime', 'Drama', 'Mystery']]",20000000,14710975
 Criminal,2016-04-07,R,tt3014866,302156,113.0,"[['Action', 'Crime', 'Science Fiction']]",31500000,14708696
 It Follows,2015-02-04,R,tt3235888,270303,101.0,[['Horror']],2000000,14674076
 "Hello, My Name Is Doris",2015-11-27,R,tt3766394,320588,95.0,"[['Comedy', 'Drama', 'Romance']]",1000000,14659448
@@ -1853,6 +1853,7 @@ The One I Love,2014-08-08,R,tt2756032,242090,91.0,"[['Romance', 'Comedy', 'Drama
 Bikini Spring Break,2012-06-26,R,tt2304517,114574,87.0,[['Comedy']],500000,500000
 The Ward,2010-09-13,R,tt1369706,45657,88.0,"[['Horror', 'Thriller']]",10000000,498974
 Steve Jobs: The Man in the Machine,2015-08-07,R,tt4425064,324308,129.0,[['Documentary']],0,494506
+Another Me,2013-11-15,PG-13,tt1816608,252529,86.0,"[['Thriller', 'Mystery', 'Horror', 'Drama']]",0,489884
 Breathe,2017-10-13,PG-13,tt5716464,407445,118.0,"[['Drama', 'Romance']]",0,477815
 Wiener-Dog,2016-06-24,R,tt4144190,326094,88.0,"[['Comedy', 'Drama']]",0,469311
 "Men, Women & Children",2014-10-17,PG-13,tt3179568,243684,116.0,"[['Drama', 'Comedy']]",0,461162
@@ -1916,6 +1917,7 @@ A Royal Night Out,2015-05-14,PG-13,tt1837562,300155,97.0,"[['Romance', 'Comedy']
 Supersonic,2016-10-02,R,tt5213534,412924,117.0,"[['Documentary', 'Music']]",0,226286
 Life in a Day,2011-01-27,PG-13,tt1687247,66150,95.0,"[['Documentary', 'Drama']]",45202,225861
 Conan O'Brien Can't Stop,2011-06-24,R,tt1864288,65058,89.0,[['Documentary']],0,223959
+Force of Nature,2020-07-02,R,tt10308928,619592,91.0,"[['Action', 'Drama', 'Crime']]",0,215668
 Happythankyoumoreplease,2011-03-04,R,tt1481572,47218,100.0,"[['Comedy', 'Romance', 'Drama']]",0,215576
 The Awakening,2011-08-17,R,tt1687901,77949,107.0,"[['Horror', 'Thriller']]",4798235,209696
 Rob the Mob,2014-03-21,R,tt2481480,243935,104.0,"[['Crime', 'Drama']]",0,206909
@@ -1935,7 +1937,7 @@ God's Pocket,2014-05-09,R,tt2920808,244517,88.0,[['Drama']],0,169976
 Mom and Dad,2017-09-09,R,tt5462326,401561,84.0,"[['Thriller', 'Horror', 'Comedy']]",0,169209
 Man Down,2015-09-12,R,tt2461520,296523,90.0,"[['Thriller', 'Drama']]",0,167085
 Time Out of Mind,2014-09-07,PG,tt3505712,284294,120.0,[['Drama']],0,166775
-Palm Springs,2020-01-26,R,tt9484998,587792,90.0,"[['Comedy', 'Romance', 'Science Fiction']]",0,164000
+Palm Springs,2020-08-20,R,tt9484998,587792,90.0,"[['Comedy', 'Fantasy', 'Mystery', 'Romance']]",0,164000
 Restless,2011-09-16,PG-13,tt1498569,47760,91.0,"[['Drama', 'Romance']]",8000000,163265
 The King,2018-06-22,R,tt6775942,452226,107.0,[['Documentary']],0,162589
 Hell & Back,2015-10-02,R,tt2141773,336313,86.0,"[['Fantasy', 'Comedy', 'Animation', 'Adventure']]",0,157768
@@ -1968,7 +1970,7 @@ Cowgirls n' Angels,2012-05-25,PG,tt1894561,105528,92.0,"[['Drama', 'Family']]",0
 Holy Ghost People,2013-03-10,R,tt2298224,172792,93.0,"[['Drama', 'Thriller']]",2000000,120000
 Trust,2010-09-10,R,tt1529572,44945,104.0,"[['Crime', 'Drama', 'Thriller']]",9500000,120000
 Spark: A Space Tail,2017-04-14,PG,tt3228088,322487,97.0,"[['Adventure', 'Animation', 'Comedy', 'Family', 'Science Fiction']]",0,116873
-She's Funny That Way,2015-04-22,R,tt1767372,245906,93.0,[['Comedy']],0,111996
+She's Funny That Way,2014-08-29,R,tt1767372,245906,93.0,[['Comedy']],0,111996
 Saint John of Las Vegas,2010-01-29,R,tt1276105,27023,84.0,[['Comedy']],3800000,111731
 Strangerland,2015-07-01,R,tt2325977,245846,111.0,"[['Drama', 'Thriller', 'Mystery']]",10000000,111107
 Adult Beginners,2014-09-08,R,tt3318750,287587,90.0,"[['Drama', 'Comedy']]",0,108808
@@ -2157,7 +2159,6 @@ Beach Rats,2017-08-25,R,tt6303866,426238,95.0,"[['Drama', 'Romance']]",0,486
 The European Dream,2018-04-19,G,tt8077374,693508,4.0,"[['Romance', 'Drama']]",1300,435
 Alone: A Kjba77 Production,2015-02-18,PG-13,,376649,14.0,[[]],100,400
 A Perfect Man,2013-11-01,R,tt2275471,228331,95.0,[['Drama']],5000000,388
-Batman: Most Wanted,2020-06-01,R,tt12059074,688303,50.0,"[['Animation', 'Drama', 'Action', 'Crime', 'Mystery', 'Adventure', 'Thriller']]",300,300
 Satanic,2016-07-01,R,tt4796122,400411,84.0,[['Horror']],0,252
 InAPPropriate Comedy,2013-03-22,R,tt1754811,156268,84.0,[['Comedy']],0,228
 Dogs,2017-01-17,G,,518218,1.0,[['Documentary']],10,150
@@ -2185,8 +2186,20 @@ Brian Banks,2019-08-09,PG-13,tt3920820,535845,99.0,[['Drama']],10,4
 Single Dad 2: A Single Dad Christmas,2015-12-04,G,,533908,2.0,[['Comedy']],1,3
 Single Dad 3: Admiration and Fixation,2017-06-06,PG-13,,533903,13.0,[['Comedy']],1,3
 Led Zeppelin : Celebration Day,2012-10-17,G,tt2414166,137366,124.0,[['Music']],0,2
-Emulation,2020-07-19,PG-13,,725586,6.0,"[['Science Fiction', 'Drama', 'Comedy', 'Action']]",5,1
+Emulation,2020-08-03,PG-13,,725586,6.0,"[['Science Fiction', 'Drama', 'Comedy', 'Action']]",5,1
 We Made a Serious Film,2018-03-17,PG-13,,545943,1.0,[[]],14,1
+Erica,,R,tt8355838,730788,120.0,[[]],0,0
+NOMAD,2020-08-06,PG,,730677,36.0,[[]],0,0
+Censored,2020-02-02,PG,,730094,7.0,"[['Comedy', 'Thriller']]",0,0
+The Adventures of Indiana Jones,2016-09-29,PG,tt6047496,730090,2.0,"[['Action', 'Adventure', 'Animation']]",0,0
+CHIC: Part Deux,2018-07-25,PG,tt8612092,729855,78.0,[['Comedy']],0,0
+"All Good Gifts: The Making of ""Godspell""",2017-12-06,PG,tt7717036,729852,31.0,[['Documentary']],0,0
+Abby,2020-05-26,PG,,729724,4.0,"[['Comedy', 'Drama', 'Romance']]",0,0
+Breakfast Special 2: Revenge of the Omelets,2012-12-25,G,,729638,56.0,[['Documentary']],0,0
+The Naughty List,2019-12-23,R,tt11439904,729603,16.0,[['Romance']],0,0
+"Scarlett, Shanghai & Me",2020-08-02,PG-13,tt10746682,729541,35.0,"[['Comedy', 'Drama']]",1500,0
+Escapism,2019-09-06,PG,,729533,6.0,[['Fantasy']],0,0
+Screwed,2022-04-15,R,,729369,89.0,"[['Animation', 'Comedy']]",0,0
 Shootout at Shadow Mountain,2019-05-01,G,,728968,0.0,"[['Comedy', 'Western']]",0,0
 Desert Cache,2020-06-12,PG,,728071,0.0,"[['Adventure', 'Crime', 'Thriller', 'Western']]",0,0
 Tickle Me Elmo,2019-09-14,PG,,728068,0.0,"[['Comedy', 'Horror']]",0,0
@@ -2196,16 +2209,16 @@ BREAKthrough,2020-04-07,PG,,727837,0.0,"[['Music', 'Drama']]",0,0
 Bloodstain Inc.,2020-05-20,PG-13,,727835,0.0,"[['Crime', 'Drama', 'Horror', 'Thriller']]",0,0
 NEUROSI5: Momento,2020-06-05,R,tt12669560,727773,6.0,"[['Animation', 'Science Fiction', 'Thriller']]",0,0
 Obsidian Meltdown Presents: Seals Of Refusal,2020-08-25,R,,727759,20.0,"[['Drama', 'Action', 'Crime']]",50,0
+The Kissing Booth 3,2021-06-25,PG-13,,727745,0.0,"[['Romance', 'Comedy']]",0,0
 All In: The Fight for Democracy,2020-09-09,PG-13,tt12538822,727705,0.0,[[]],0,0
 Gaming Squad: Pathetic Awakening,2021-10-01,R,,727695,121.0,"[['Animation', 'Fantasy', 'Comedy', 'Action', 'Adventure']]",0,0
-The Gift Of Freedom,2020-08-07,PG-13,,727562,0.0,"[['Drama', 'Thriller', 'Mystery']]",0,0
 Head Over Heels,2018-07-26,PG-13,,727544,120.0,"[['Music', 'Comedy', 'Romance']]",0,0
 American Wisper,2020-02-12,PG-13,tt7765778,727392,91.0,"[['Crime', 'Thriller']]",500000,0
 Florence,2020-07-26,G,,727334,6.0,[['Drama']],100,0
 Tragic Wind,2020-06-16,G,,727295,0.0,"[['Drama', 'Music', 'Romance']]",0,0
 Center Focus,2020-03-30,PG,,727294,0.0,"[['Fantasy', 'Horror', 'Thriller', 'Music']]",0,0
 Care Bears and Cousins Take Heart (DVD),2016-11-01,G,,727249,132.0,"[['Family', 'Animation']]",0,0
-Nazi attack on america,2015-05-06,PG,tt4469568,727113,0.0,[['Documentary']],0,0
+Nazi Attack on America,2015-05-06,PG,tt4469568,727113,0.0,[['Documentary']],0,0
 Deported,2020-01-23,G,tt11023454,726742,121.0,[[]],0,0
 Cats & Dogs 3: Paws Unite,2020-10-13,PG,tt12745164,726739,0.0,[[]],0,0
 The Effects of a House Fire,2020-03-13,G,,726480,0.0,[['Documentary']],0,0
@@ -2219,11 +2232,11 @@ Kingshighway,2010-01-01,R,tt1023339,725147,0.0,[['Crime']],3000000,0
 Domestic Warfare,2019-12-12,R,tt10685330,725092,93.0,[['Drama']],0,0
 Keys to the City,2019-09-14,PG-13,tt8216656,725085,90.0,[['Drama']],0,0
 Hard Kill,2020-08-28,R,tt11656172,724989,0.0,"[['Action', 'Thriller']]",0,0
-The Orange County Project,2020-07-23,R,,724971,93.0,[['Documentary']],0,0
 Fabulous Fibbers,2016-10-22,G,,724732,11.0,[['Comedy']],0,0
 Alone,2019-05-06,PG,tt10309512,724545,7.0,"[['Thriller', 'Mystery']]",1000,0
 Halloween Awakening: The Legacy of Michael Myers,2012-10-31,PG-13,tt2577470,724451,47.0,[['Horror']],0,0
 Once is Enough,2020-05-08,PG,tt4943820,724130,74.0,[['Documentary']],0,0
+Gabriel's Inferno Part II,2020-07-31,R,tt11641654,724089,0.0,[['Romance']],0,0
 The Pop Culture Kid Movie,2020-09-04,PG-13,,723991,0.0,[[]],0,0
 Love in Harmony Valley,2020-07-12,G,tt11740766,723968,90.0,"[['Romance', 'TV Movie']]",0,0
 "Notebook Poems, Vol. 3",2020-07-12,PG,,723938,3.0,"[['Drama', 'Fantasy', 'Documentary']]",0,0
@@ -2262,27 +2275,17 @@ Schizophrenia,2020-04-18,PG,,719894,2.0,"[['Drama', 'Comedy']]",0,0
 The Affair,2020-03-07,PG-13,,719574,4.0,[['Drama']],0,0
 Unsubscribe,2020-04-27,PG-13,tt8825186,719473,95.0,[['Documentary']],5000,0
 Honk If You're Special,2010-10-05,PG,,719183,34.0,"[['Animation', 'Family']]",0,0
-Nimmo 5,2020-07-17,R,,719000,17.0,"[['Drama', 'Action', 'Thriller']]",0,0
-An Unmarked Grave Lies Upstate,2021-07-01,R,,718906,35.0,"[['Drama', 'Crime', 'Thriller']]",3000,0
+An Unmarked Grave Lies Upstate,2021-07-01,R,,718906,35.0,"[['Drama', 'Crime', 'Thriller']]",5000,0
 A Nice Girl Like You,2020-07-18,R,tt3278540,718840,94.0,"[['Comedy', 'Romance']]",6100000,0
 The Good Witch Tale of Two Hearts,2018-10-22,PG,tt9163780,718779,120.0,[[]],0,0
 The Good Witch Spellbound,2017-10-22,PG,tt7328544,718770,94.0,[[]],0,0
 The Good Witch Secrets of Grey House,2016-09-22,PG,tt5845496,718765,84.0,[[]],0,0
 The Good Witch Halloween,2018-10-22,PG,tt5056648,718727,85.0,[[]],0,0
-Rival,2020-07-03,R,,718692,9.0,[['Thriller']],0,0
-Dream Team,2020-06-19,PG-13,,718687,14.0,"[['Romance', 'Music']]",0,0
-Ex Restoration,2020-06-05,R,,718681,12.0,"[['Science Fiction', 'Thriller']]",0,0
 Street Hawk The Movie,2011-06-27,PG,,718658,70.0,"[['Action', 'Crime', 'Mystery', 'Science Fiction']]",0,0
 Jawbreaker,2019-11-04,R,,718656,2.0,"[['Horror', 'Animation']]",0,0
-The Clubhouse,2020-05-08,R,,718638,7.0,"[['Drama', 'Romance']]",0,0
-Rally Killer,2020-04-18,PG-13,,718510,11.0,"[['Mystery', 'Drama']]",0,0
-Encore,2020-03-16,PG-13,,718508,12.0,"[['Drama', 'Music']]",0,0
-Nimmo 4,2020-03-07,R,,718507,10.0,"[['Drama', 'Thriller', 'Crime']]",0,0
-NIMMO 3,2019-12-21,R,,718503,9.0,"[['Drama', 'Thriller', 'Crime']]",0,0
-NIMMO 2,2019-12-07,R,,718496,9.0,"[['Drama', 'Thriller', 'Crime']]",0,0
 NIMMO,2019-11-29,R,,718487,11.0,"[['Drama', 'Thriller', 'Crime']]",0,0
 The Question,2020-06-23,R,,718485,0.0,"[['Western', 'Thriller']]",10,0
-Rogue,2020-08-28,R,tt11576124,718444,105.0,[['Action']],0,0
+Rogue,2020-08-20,R,tt11576124,718444,105.0,[['Action']],0,0
 Allan The Dog,2020-06-26,R,tt9286670,718334,90.0,[['Comedy']],0,0
 Facade,2020-04-20,PG-13,tt9633612,718284,88.0,[['Thriller']],0,0
 Asking For A Friend,2020-01-01,R,tt9702644,718151,24.0,"[['Horror', 'Comedy']]",0,0
@@ -2316,7 +2319,6 @@ Modern Day Slavery,2019-12-12,PG-13,tt11468474,712250,113.0,[['Documentary']],30
 Beloved,2017-10-01,PG-13,tt7957536,712213,29.0,[['Thriller']],0,0
 Mighty Oak,2020-06-05,PG-13,tt9702438,711696,102.0,"[['Drama', 'Comedy']]",0,0
 Beat Down 3,2020-07-10,R,,711592,0.0,"[['Action', 'Crime', 'Comedy']]",0,0
-Chasing the Equinox,2020-06-04,PG,,711564,0.0,[[]],0,0
 The Captive Nanny,2020-05-30,PG-13,tt12316704,711550,84.0,[['Thriller']],0,0
 Francis Bacon’s Pope,2020-06-04,PG,,711427,13.0,"[['Drama', 'Horror']]",0,0
 Don't Go Gentle: A Film About IDLES,2020-06-01,PG-13,,711240,75.0,[['Documentary']],0,0
@@ -2335,10 +2337,8 @@ My Crazy Pole Vaulting Family,2020-05-01,G,,709729,4.0,"[['Documentary', 'Family
 Studying and Summoning,2020-01-14,PG-13,,709408,4.0,[[]],25,0
 The Confession of Max,2020-06-13,R,tt11803434,709326,86.0,"[['Drama', 'Thriller']]",3000,0
 NOT MY RESPONSIBILITY,2020-05-27,PG,tt12399742,709227,4.0,[[]],0,0
-Balrog: Behind the Glory,2011-07-31,PG-13,tt1948526,709189,12.0,"[['Drama', 'Comedy', 'Documentary']]",10000,0
 My Friend Pancake,2018-02-27,G,tt6030254,709146,3.0,"[['Animation', 'Comedy', 'Family']]",0,0
 You Have a Nice Flight,2017-07-29,PG-13,tt3887812,708860,81.0,"[['Comedy', 'Drama', 'Romance']]",0,0
-Narcos,2015-08-28,R,,708686,1550.0,"[['Crime', 'Drama']]",0,0
 The Academy of Magic,2020-01-05,G,tt5768992,708352,89.0,"[['Animation', 'Fantasy', 'Family']]",12000000,0
 The Early Birds,2019-03-15,G,,708307,2.0,"[['Animation', 'Comedy']]",0,0
 Mo'Nique & Friends: Live from Atlanta,2020-02-07,NC-17,tt11540664,708296,70.0,"[['Comedy', 'TV Movie']]",0,0
@@ -2346,6 +2346,7 @@ Feel the Beat,2020-06-19,G,tt10714856,707886,107.0,"[['Comedy', 'Music', 'Drama'
 A Short Film About Masturbation,2020-05-28,PG-13,,707850,4.0,[['Drama']],0,0
 The Little Einsteins Reboot Movie,2021-11-05,G,,707123,45.0,[[]],500,0
 Stalked,2015-10-29,R,tt5147202,707037,75.0,"[['Thriller', 'Horror']]",0,0
+Out,2020-05-22,PG,tt12366826,706860,9.0,"[['Animation', 'Comedy', 'Drama', 'Fantasy']]",0,0
 NFL Training Video: How Not to Murder People,2013-01-15,PG-13,tt3065054,706826,3.0,[['Comedy']],0,0
 The Faceless: Chapter Two,2020-04-01,PG-13,,706717,2.0,[['Horror']],0,0
 The Faceless,2020-03-31,PG-13,,706713,1.0,[['Horror']],0,0
@@ -2361,7 +2362,7 @@ Dukeland,2020-05-15,R,,704429,86.0,"[['Drama', 'Family']]",0,0
 Mystery in Yellowstone,2015-06-09,PG,tt6440788,703990,46.0,[['Documentary']],0,0
 Sommore: The Reign Continues,2015-11-01,R,tt4172758,703849,93.0,[['Comedy']],0,0
 He Sends Rain,2017-04-05,PG,tt4914282,703778,111.0,[['Drama']],0,0
-Deathstroke: Knights & Dragons - The Movie,2020-08-04,R,,703771,87.0,"[['Animation', 'Action']]",0,0
+Deathstroke: Knights & Dragons - The Movie,2020-08-04,R,tt10394706,703771,87.0,"[['Animation', 'Action']]",0,0
 Deep Blue Sea 3,2020-07-28,R,tt11946300,703745,99.0,"[['Action', 'Horror', 'Science Fiction']]",5000000,0
 I Am With You,2020-05-13,G,,703729,3.0,"[['Animation', 'Family']]",0,0
 The Purge: 2024,2017-11-01,R,tt7553974,703703,13.0,[['Horror']],0,0
@@ -2546,7 +2547,7 @@ UFC 158: St-Pierre vs. Diaz - Prelims,2013-03-16,R,,671918,102.0,[[]],0,0
 UFC 157 Rousey vs. Carmouche - Prelims,2013-02-23,R,,671914,123.0,[[]],0,0
 The Blueprint: The Story of Adventist Education,2014-12-23,G,tt3498400,671602,57.0,[['Documentary']],0,0
 Nature Cat: Ocean Commotion,2017-06-19,G,tt6983490,671595,46.0,[[]],0,0
-Upside-Down Magic,2020-07-31,G,tt10833270,671583,0.0,"[['Family', 'Fantasy', 'TV Movie']]",0,0
+Upside-Down Magic,2020-07-31,G,tt10833270,671583,96.0,"[['Family', 'Fantasy', 'TV Movie']]",0,0
 Lady Gaga: Enigma - Live in Miami on Super Saturday Night,2020-02-01,PG-13,,671207,110.0,[[]],0,0
 Target You! Cold War Educational Films,2013-03-19,PG-13,,671053,132.0,[[]],0,0
 Border Cartel,2016-01-01,R,tt5932626,670895,85.0,[[]],0,0
@@ -2564,7 +2565,7 @@ Karen Kingsbury's The Bridge,2015-12-06,G,,668210,83.0,[['TV Movie']],0,0
 NXT TakeOver: Portland,2020-02-16,PG,tt11575236,668088,185.0,"[['Action', 'Drama']]",0,0
 Kobe Bryant: The Death of a Legend,2020-01-28,PG-13,,667903,0.0,[['Documentary']],0,0
 LOL & The Rise of Evil,2020-01-15,NC-17,tt9490012,667835,55.0,"[['Comedy', 'Adventure']]",13000,0
-Bring Back the Bush Where Did all the Pubic Hair Go,2019-12-27,R,tt11697840,667643,0.0,[[]],0,0
+Bring Back the Bush: Where Did All the Pubic Hair Go?,2019-12-27,R,tt11697840,667643,0.0,[[]],0,0
 In a Foreign Place I Was,2020-01-01,G,,667229,14.0,[['Fantasy']],200,0
 Dead Earth,2020-01-28,R,tt6391282,667177,80.0,"[['Action', 'Drama', 'Horror', 'Thriller']]",0,0
 Billy the Giraffe,2019-06-24,G,,667052,3.0,"[['Family', 'Music', 'Comedy', 'Documentary']]",0,0
@@ -2577,7 +2578,7 @@ Fine Lines,2019-12-03,PG,tt10826186,666061,97.0,[['Documentary']],0,0
 Break,2019-02-15,PG-13,,665792,0.0,[['Thriller']],0,0
 Sea Horses,2019-09-03,G,tt11127382,665586,80.0,"[['Animation', 'Family']]",0,0
 Four Grooves,2019-08-12,R,,665506,84.0,"[['Drama', 'Comedy']]",200,0
-Elephant,2020-03-14,G,tt12036052,665135,6.0,[['Documentary']],0,0
+Elephant,2020-03-14,G,tt12036052,665135,86.0,[['Documentary']],0,0
 Imagine Dragons: Rock in Rio 2019,2019-10-06,PG,,665120,103.0,[['Music']],0,0
 The Prison Within,2020-01-17,R,tt6259874,665103,0.0,[['Documentary']],0,0
 Return to the Holy Land,2018-03-28,G,tt11466194,664962,28.0,[[]],0,0
@@ -2591,6 +2592,7 @@ Awesome Planet,2020-01-16,G,,664714,10.0,[['Documentary']],0,0
 Solar Deity,2019-10-15,PG,tt11610318,664527,0.0,"[['Horror', 'Drama', 'Family']]",0,0
 She's In Portland,2020-01-16,R,tt7174660,664498,0.0,"[['Comedy', 'Drama']]",0,0
 Life is Strange,2015-01-30,R,tt4375662,664496,840.0,"[['Thriller', 'Romance', 'Crime', 'Adventure']]",0,0
+She Dies Tomorrow,2020-07-31,R,tt11614912,664297,84.0,"[['Thriller', 'Comedy', 'Drama']]",0,0
 The Race to Dope,2016-06-15,PG-13,tt11198898,664178,60.0,[['Documentary']],0,0
 Ernesto's Manifesto,2019-12-13,PG-13,tt8757908,663671,99.0,[['Comedy']],0,0
 Dying Breath,2016-05-13,R,tt6348602,663661,18.0,[['Horror']],2000,0
@@ -2602,7 +2604,7 @@ And Two If By Sea: The Hobgood Brothers,2019-04-19,PG,,663249,102.0,[['Documenta
 Pompeii: Secrets of the Dead,2019-11-24,PG,,662389,0.0,[['Documentary']],0,0
 Thanksgiving with the Carters,2019-11-11,PG-13,tt11063548,661959,104.0,[[]],100000,0
 I Love Lucy Christmas Special,2013-12-20,G,,661890,60.0,"[['Comedy', 'Family']]",0,0
-Home Sweet Home,2020-05-01,PG,tt9636630,661881,84.0,"[['Comedy', 'Romance', 'Drama']]",0,0
+Home Sweet Home,2020-04-22,PG,tt9636630,661881,84.0,"[['Comedy', 'Romance', 'Drama']]",0,0
 An Innocent Kiss,2019-12-31,PG-13,tt9642038,661751,101.0,"[['Comedy', 'Family']]",0,0
 Lake Artifact,2019-08-28,PG-13,tt8618718,661690,96.0,"[['Comedy', 'Horror', 'Science Fiction', 'Thriller']]",0,0
 Jewish American Soldiers: Stories from WWII,2017-11-12,PG,tt7685882,660788,0.0,[[]],70000,0
@@ -2771,6 +2773,7 @@ PS I'm Spaceface,2017-08-12,G,,637196,6.0,"[['Drama', 'Science Fiction']]",0,0
 Hazbin Hotel,2019-10-28,R,tt7216636,636864,32.0,"[['Animation', 'Comedy', 'Fantasy']]",0,0
 Jesus,2019-12-01,R,,636674,35.0,"[['Documentary', 'Drama', 'Horror', 'Music', 'History', 'Thriller']]",2500,0
 Hunting UFOs: Investigating Alien Hotspots,2019-09-30,PG,tt11048752,635866,79.0,[['Documentary']],50000,0
+Rogue Warfare: Death of a Nation,2020-09-25,R,tt7983744,635780,103.0,"[['War', 'Action']]",0,0
 Inherit the Viper,2020-01-10,R,tt7349896,634904,90.0,"[['Drama', 'Thriller', 'Crime']]",0,0
 Durrell's Underhogs,2017-10-22,G,,634471,45.0,[[]],0,0
 "Bombs Away: LBJ, Goldwater and the 1964 Campaign That Changed It All",2014-10-30,PG,tt4604984,634360,56.0,[['Documentary']],0,0
@@ -2805,7 +2808,7 @@ Once Upon a Time in Detroit,2017-11-21,R,tt5326498,629818,,[['Drama']],0,0
 Time,2018-10-08,PG-13,,629802,68.0,[['Action']],0,0
 Bellator 226: Bader vs. Kongo,2019-09-07,PG-13,,629682,,[[]],0,0
 Bad Labor,2018-06-21,R,tt5806172,629172,86.0,"[['Thriller', 'Action', 'Crime', 'Comedy']]",700,0
-An American Pickle,2020-08-06,PG-13,tt9059704,628917,90.0,[['Comedy']],0,0
+An American Pickle,2020-08-06,PG-13,tt9059704,628917,88.0,[['Comedy']],0,0
 Help Wanted,2018-12-12,PG,tt10907918,628703,10.0,"[['Family', 'Drama']]",3300,0
 Pinball Pirate,2017-09-19,PG,tt7545004,628582,16.0,[['Documentary']],0,0
 Same Player Shoots Again,2015-11-15,PG,,628580,60.0,[['Documentary']],0,0
@@ -2876,7 +2879,6 @@ Jexi,2019-10-10,R,tt9354944,620725,84.0,[['Comedy']],5000000,0
 Ernestine & Delilah,2019-05-01,PG,,620420,4.0,[['Drama']],0,0
 "Geek, and You Shall Find",2019-07-23,PG,tt10131230,620284,91.0,[['Documentary']],0,0
 Alternate Endings: Six New Ways to Die in America,2019-08-14,PG,tt10720098,619907,68.0,[['Documentary']],0,0
-Force of Nature,2020-07-02,R,tt10308928,619592,91.0,"[['Action', 'Drama']]",0,0
 Bernie Madoff: In His Own Words,2019-02-17,PG-13,tt9567392,619570,45.0,[['History']],0,0
 Wild Ireland: The Edge of the World,2017-08-29,PG,tt7503792,619551,118.0,[[]],0,0
 Food Place,2019-08-16,R,,619286,19.0,[['Comedy']],0,0
@@ -2886,7 +2888,7 @@ The Manson Family Massacre,2019-08-05,R,tt7661028,619189,90.0,"[['Horror', 'Crim
 Turning Point,2017-05-31,PG-13,,618793,30.0,"[['Drama', 'Comedy']]",0,0
 Superman: Red Son,2020-02-24,PG-13,tt10985510,618355,84.0,"[['Action', 'Animation', 'Science Fiction']]",0,0
 Superman: Man of Tomorrow,2020-08-23,PG-13,tt11079116,618354,86.0,"[['Animation', 'Action', 'Science Fiction']]",0,0
-Batman: Death in the Family,2020-08-23,R,,618353,0.0,"[['Animation', 'Action']]",0,0
+Batman: Death in the Family,2020-08-23,R,tt12794046,618353,80.0,"[['Animation', 'Action']]",0,0
 Justice League Dark: Apokolips War,2020-05-05,R,tt11079148,618344,90.0,"[['Animation', 'Action', 'Adventure', 'Fantasy', 'Science Fiction']]",0,0
 Leonard Knight: A Man & His Mountain,2015-11-01,G,tt2084764,618120,75.0,[['Documentary']],0,0
 Western Stars,2019-10-25,PG,tt10687158,617773,83.0,"[['Music', 'Documentary']]",0,0
@@ -2978,7 +2980,6 @@ NXT TakeOver XXV,2019-06-01,PG,tt10374352,606308,158.0,"[['Drama', 'Action']]",0
 Archive,2020-06-05,R,tt6882604,606234,109.0,[['Science Fiction']],0,0
 A Cinderella Story: Christmas Wish,2019-10-15,PG,tt10326928,606117,93.0,"[['Comedy', 'Music', 'Romance', 'Fantasy']]",0,0
 The Swan Princess: Kingdom of Music,2019-08-05,G,tt10551268,605829,82.0,"[['Animation', 'Family', 'Fantasy', 'Music']]",0,0
-Gooned Out Chris gets Kid Napped,2011-12-10,PG-13,,605408,3.0,"[['Thriller', 'Comedy', 'Crime']]",2,0
 Headroom,2018-06-02,PG-13,tt7673154,605396,,[[]],0,0
 Hard Night Falling,2019-12-10,R,tt4059460,605368,86.0,"[['Thriller', 'Action']]",0,0
 Stand,2016-01-01,PG-13,tt3420538,605178,0.0,"[['Drama', 'Thriller']]",0,0
@@ -3005,12 +3006,13 @@ Hotline,2019-03-22,PG-13,,604148,2.0,[['Drama']],0,0
 The Adventures of Stirk,2016-07-29,PG,tt6169700,604025,9.0,"[['Science Fiction', 'Action', 'Comedy']]",0,0
 The Month That Follows,2018-12-21,PG,tt6166408,604020,8.0,[['Romance']],0,0
 Pillow Talk,2019-05-07,PG-13,,604015,10.0,"[['Drama', 'Romance']]",1050,0
+John Wick: Chapter 4,2022-05-25,R,tt10366206,603692,0.0,"[['Action', 'Crime', 'Thriller']]",0,0
 Unsupersize Us,2016-12-01,G,tt6294950,603551,82.0,[['Documentary']],0,0
 The Last Bridesmaid,2019-06-22,G,tt10136884,603452,90.0,"[['Romance', 'TV Movie']]",0,0
 "Love, Take Two",2019-06-15,G,tt10136902,603450,90.0,"[['Romance', 'TV Movie']]",0,0
 Wedding at Graceland,2019-06-01,G,tt9777092,603447,90.0,"[['Romance', 'TV Movie']]",0,0
 Stay,2019-02-18,R,tt5935518,603312,93.0,"[['Drama', 'Horror', 'Thriller']]",0,0
-Dream Horse,2020-04-17,PG,tt9883996,603206,102.0,"[['History', 'Drama']]",0,0
+Dream Horse,2020-09-04,PG,tt9883996,603206,102.0,"[['History', 'Drama']]",0,0
 The Silencing,2020-07-18,R,tt7149730,603119,93.0,"[['Crime', 'Thriller', 'Action']]",0,0
 Bennett's War,2019-08-30,PG-13,tt7370952,603055,95.0,[['Drama']],0,0
 The Past Is Never Dead,2019-05-03,PG-13,tt10108358,602998,88.0,[['Documentary']],0,0
@@ -3099,6 +3101,7 @@ PawParazzi,2019-03-19,G,tt7188014,589795,90.0,[['Family']],0,0
 Creep Nation,2019-03-20,R,tt8511854,589770,85.0,"[['Horror', 'Thriller']]",0,0
 Hair Love,2019-08-14,G,tt7129636,589739,7.0,"[['Animation', 'Family', 'Drama']]",284058,0
 Book of Evil,2018-12-18,PG-13,tt9154944,589614,90.0,[['Horror']],0,0
+A Call to Spy,2020-10-02,PG-13,tt7698468,589612,0.0,[['Drama']],0,0
 Buzzed,2019-03-12,G,tt9013800,589343,75.0,"[['Animation', 'Family']]",0,0
 The Photograph,2020-02-14,PG-13,tt7798646,589049,106.0,"[['Drama', 'Romance']]",0,0
 Wild Prairie Rose,2016-08-17,PG-13,tt5330986,588943,90.0,"[['Drama', 'Family']]",0,0
@@ -3150,7 +3153,6 @@ Go Straight Take Left,2018-11-12,PG-13,tt8956392,581222,52.0,[[]],0,0
 When Waters Rise,2016-08-20,PG-13,tt6086904,581072,17.0,[['Drama']],0,0
 Seduced by Evil,2019-02-03,PG,,580973,90.0,[['Documentary']],0,0
 Quiet Storm: The Ron Artest Story,2019-05-17,PG-13,tt9675192,580781,106.0,[['Documentary']],0,0
-Boyz in the Wood,2019-03-08,R,tt9735758,580629,87.0,"[['Comedy', 'Music', 'Action', 'Horror']]",0,0
 Blurryface Live,2016-01-01,PG,,580533,60.0,[['Music']],0,0
 Turned Tiny: The Business of Tiny Homes,2019-04-21,G,,580207,10.0,[['Documentary']],0,0
 Star War The Third Gathers: Backstroke of the West,2016-12-01,PG-13,,579754,140.0,[[]],0,0
@@ -3159,6 +3161,7 @@ True: Happy Hearts Day,2019-02-01,G,,579473,23.0,"[['Adventure', 'Animation', 'F
 Treeline,2019-01-27,G,,579436,40.0,"[['Documentary', 'Action']]",0,0
 Blaine and the Magic Book,2017-04-19,PG-13,tt6828786,579320,,[[]],0,0
 American Fighter,2020-07-20,R,tt2093056,579221,98.0,[['Action']],0,0
+The Drone,2019-01-28,R,tt7476524,579091,90.0,"[['Horror', 'Comedy']]",0,0
 Bad Trip,2020-04-17,R,tt9684220,578908,84.0,[['Comedy']],0,0
 I Am God,2019-01-07,PG-13,tt8866742,578666,,[['Thriller']],5000,0
 Cecil,2019-01-22,PG,tt2709962,578493,80.0,"[['Comedy', 'Family']]",0,0
@@ -3166,7 +3169,7 @@ Choomah Island 3: Denouement,2019-01-20,R,,578372,66.0,"[['Comedy', 'Animation',
 Black and Blue,2019-10-25,R,tt7390646,578189,109.0,"[['Action', 'Thriller']]",12000000,0
 Battle at the Border with Brian Kilmeade,2019-01-05,PG,,578151,60.0,[['Documentary']],0,0
 Deep Ocean: Descent into the Mariana Trench,2018-07-13,PG-13,,578097,52.0,[['Documentary']],0,0
-Tenet,2020-08-26,PG-13,tt6723592,577922,150.0,"[['Action', 'Thriller']]",205000000,0
+Tenet,2020-08-13,PG-13,tt6723592,577922,150.0,"[['Action', 'Thriller']]",205000000,0
 When We Were Younger,2019-04-06,PG,tt9341964,577841,25.0,"[['Romance', 'Drama', 'Comedy']]",3000,0
 Grand-Daddy Day Care,2019-01-05,PG-13,tt8749922,577647,91.0,"[['Comedy', 'Family']]",0,0
 Secrets,2017-09-16,PG-13,tt5112692,577440,117.0,[['Drama']],0,0
@@ -3211,6 +3214,7 @@ UFC Fight Night 143: Cejudo vs. Dillashaw,2019-01-19,R,,573944,,[[]],0,0
 The Woods,2013-05-16,PG-13,tt2644902,573521,86.0,"[['Thriller', 'Horror']]",0,0
 Circumstances,2017-04-16,R,tt6753922,573149,41.0,[['Drama']],0,0
 Valley of the Dead,2016-10-06,PG-13,tt6231694,573146,11.0,"[['Mystery', 'Crime']]",0,0
+Seized,2020-10-13,R,tt7221772,572751,85.0,"[['Action', 'Thriller']]",0,0
 How to Build a Girl,2019-09-07,R,tt4193072,572299,102.0,[['Comedy']],0,0
 The Favorite,2019-09-13,PG-13,tt6619188,572281,108.0,[['Drama']],630000,0
 NBC’s New Year’s Eve,2018-12-09,PG,,571837,90.0,[['Documentary']],0,0
@@ -3222,7 +3226,7 @@ A Strange Place,2018-01-05,R,tt7879706,571007,10.0,"[['Mystery', 'Thriller']]",0
 Zog,2019-11-27,G,tt9109620,570701,27.0,"[['Animation', 'Family', 'Adventure']]",0,0
 One Crazy Christmas,2018-11-01,PG,tt9020648,570698,85.0,[['Comedy']],0,0
 Saving Flora,2018-10-22,NR,tt5670364,570488,95.0,"[['Adventure', 'Drama', 'Family']]",7000000,0
-Agatha and the Truth of Murder,2018-12-23,PG-13,tt9381998,570352,92.0,[['Crime']],0,0
+Agatha and the Truth of Murder,2018-12-23,PG-13,tt9381998,570352,93.0,"[['Drama', 'Mystery']]",0,0
 Sickle,2015-03-28,R,tt4379480,570305,89.0,[[]],0,0
 A Winter Princess,2019-01-18,G,tt9556730,570192,90.0,"[['Romance', 'TV Movie']]",0,0
 A Home for the Holidays: The 20th Anniversary,2018-12-12,PG,,569799,90.0,[['Music']],0,0
@@ -3281,6 +3285,7 @@ My Little Pony: Best Gift Ever,2018-10-27,PG,tt8734822,564638,44.0,"[['Animation
 "Tim and Eric Awesome Show, Great Job! - Man Milk",2010-05-02,PG-13,tt1657259,564321,22.0,"[['Comedy', 'Music']]",0,0
 Christmas Camp,2018-12-20,G,tt8354006,563730,0.0,"[['Romance', 'TV Movie']]",0,0
 Angela's Christmas,2017-12-02,G,tt7829544,563710,30.0,"[['Animation', 'Family']]",0,0
+Murder in the Woods,2020-08-14,R,tt6083146,563549,88.0,[['Horror']],0,0
 A Murder of Crows,2010-10-24,PG,tt1713797,563133,0.0,[['Documentary']],0,0
 Reflection,2018-09-08,G,,563093,3.0,"[['Animation', 'Drama']]",0,0
 The Lurking Man,2018-09-16,PG-13,tt4886942,563025,90.0,"[['Horror', 'Fantasy', 'Drama']]",0,0
@@ -3338,7 +3343,7 @@ Bellator 208: Fedor vs. Sonnen,2018-10-13,R,tt8860864,553874,,[['Action']],0,0
 Christmas on Honeysuckle Lane,2018-11-24,G,tt9083646,553798,90.0,"[['TV Movie', 'Romance']]",0,0
 Bellator 207: Mitrione vs. Bader,2018-10-12,R,tt8860860,553785,177.0,[['Action']],0,0
 Rail Pennies,2013-09-19,PG,tt3214156,553681,54.0,"[['Adventure', 'Drama']]",2000,0
-Honest Thief,2020-09-03,PG-13,tt1838556,553604,92.0,"[['Action', 'Thriller', 'Crime']]",0,0
+Honest Thief,2020-09-03,PG-13,tt1838556,553604,92.0,"[['Action', 'Thriller', 'Crime', 'Drama']]",0,0
 Art Paul of Playboy: The Man Behind the Bunny,2020-04-02,R,tt8413006,553433,73.0,[['Documentary']],0,0
 Fishtales 3,2018-09-14,G,tt7575660,553224,74.0,"[['Animation', 'Adventure']]",0,0
 Blue Lips,2018-10-17,R,tt9265528,552878,25.0,[['Drama']],0,0
@@ -3435,6 +3440,7 @@ Gretel & Hansel,2020-01-30,PG-13,tt9086228,542224,87.0,"[['Horror', 'Fantasy', '
 Nothing to Do,2017-01-01,PG-13,tt6068788,541896,81.0,[['Drama']],0,0
 Paint It Red,2018-08-07,R,tt6174226,541856,81.0,"[['Comedy', 'Crime', 'Thriller']]",0,0
 Exploitation,2018-04-24,R,tt7543138,541632,,[[]],4000,0
+This Changes Everything,2019-06-28,PG,tt5795282,541577,97.0,[['Documentary']],0,0
 The Elephant Queen,2019-10-18,PG,tt6722976,541572,96.0,"[['Documentary', 'Family']]",0,0
 Black Hole Apocalypse,2018-01-10,G,tt7851500,541386,112.0,[['Documentary']],0,0
 Veteran of the Psychic Wars,2018-05-09,PG-13,,541204,14.0,"[['Science Fiction', 'Mystery']]",450,0
@@ -3448,7 +3454,7 @@ Constantine: City of Demons - The Movie,2018-10-04,R,tt9177882,539517,90.0,"[['A
 2020 Nostradamus,2017-07-30,PG-13,tt7805538,539208,67.0,[['Documentary']],1000000,0
 Kesha: Rainbow - The Film,2018-08-10,PG-13,tt8856370,539158,31.0,"[['Music', 'Documentary']]",0,0
 Aquarela,2019-08-16,PG,tt4920360,539016,90.0,[['Documentary']],0,0
-Death Dive to Saturn,2017-09-13,G,tt7381692,538881,53.0,"[['Documentary', 'TV Movie']]",0,0
+Death Dive to Saturn,2017-09-13,G,tt7381692,538881,53.0,[['Documentary']],0,0
 Dreams of Cinema,2016-01-01,PG,,538860,11.0,[['Documentary']],0,0
 All the Years,2018-08-04,PG-13,,538395,7.0,[['Drama']],0,0
 Deadwood: The Movie,2019-05-31,R,tt4943998,538225,110.0,"[['Western', 'TV Movie']]",0,0
@@ -3458,7 +3464,7 @@ Papi Chulo,2019-06-07,R,tt8228538,537792,98.0,"[['Comedy', 'Drama']]",0,0
 Gosnell: The Trial of America's Biggest Serial Killer,2018-10-12,PG-13,tt3722234,537751,93.0,"[['Drama', 'Crime']]",0,0
 The Weekend,2019-09-13,R,tt8111130,537734,86.0,[['Comedy']],0,0
 The Padre,2018-09-28,R,tt6782276,537617,98.0,[['Drama']],0,0
-Seeing Evil,2019-08-09,PG-13,tt5691856,537209,90.0,"[['Fantasy', 'Thriller']]",0,0
+Seeing Evil,2019-08-09,PG-13,tt5691856,537209,90.0,"[['Fantasy', 'Thriller']]",150000,0
 My Little Pony: Equestria Girls - Rollercoaster of Friendship,2018-07-06,G,tt8717590,537170,44.0,"[['Animation', 'Family', 'Music']]",0,0
 Hope Gap,2019-10-03,PG-13,tt7587876,537140,100.0,"[['Drama', 'Romance']]",0,0
 Red Room,2017-10-26,R,tt5738830,537101,96.0,"[['Horror', 'Thriller']]",46921,0
@@ -3475,7 +3481,6 @@ Sam and Gus,2014-08-28,PG,tt3959594,536348,8.0,"[['Drama', 'Comedy']]",0,0
 Truck Wars,2018-07-10,PG,tt8693348,536230,84.0,"[['History', 'Documentary']]",0,0
 "Kodak Black, 21 Savage, Lil Uzi Vert, Lil Yachty & Denzel Curry's 2016 XXL Freshmen CypherKodak Black, 21 Savage, Lil Uzi Vert, Lil Yachty & Denzel Curry's 2016 XXL Freshmen Cypher",2016-07-06,PG-13,,535969,4.0,"[['Music', 'Adventure']]",0,0
 Sea Gypsies: The Far Side of the World,2017-08-01,G,tt5656006,535663,77.0,"[['Documentary', 'Adventure']]",0,0
-Luciano Mellera: Infantiloide,2018-07-06,PG-13,tt7607400,535408,0.0,[[]],0,0
 Elsewhere,2020-01-24,R,tt7364522,535404,98.0,"[['Drama', 'Comedy']]",0,0
 Hala,2019-11-22,R,tt6348410,535308,93.0,[['Drama']],0,0
 Killers Anonymous,2019-06-27,R,tt8400758,535265,95.0,"[['Action', 'Thriller', 'Crime', 'Mystery']]",0,0
@@ -3574,7 +3579,7 @@ Big Kill,2018-10-19,R,tt7730102,524124,126.0,"[['Action', 'Western']]",0,0
 Greenland,2020-07-29,PG-13,tt7737786,524047,119.0,"[['Action', 'Science Fiction', 'Thriller']]",0,0
 Summerland,2020-07-24,PG,tt6841122,523977,100.0,"[['Drama', 'War']]",0,0
 Papa,2018-06-14,R,tt4843750,523926,,[['Drama']],2500000,0
-Words on Bathroom Walls,2020-08-07,PG-13,tt8045906,523781,0.0,[[]],0,0
+Words on Bathroom Walls,2020-08-21,PG-13,tt8045906,523781,0.0,[['Drama']],0,0
 Next Gen,2018-09-07,PG,tt7133686,523777,105.0,"[['Action', 'Adventure', 'Animation', 'Family']]",22000000,0
 Little Italy,2018-08-24,PG,tt6957966,523773,102.0,"[['Comedy', 'Romance']]",0,0
 The Legend of Hallowaiian,2018-10-18,PG,tt7615722,523604,82.0,"[['Animation', 'Action', 'Adventure', 'Family']]",0,0
@@ -3636,7 +3641,7 @@ The Campus,2018-01-26,R,tt6772946,517015,84.0,[['Horror']],0,0
 Once Upon a Prince,2018-04-07,G,tt8250512,516846,120.0,"[['Romance', 'TV Movie']]",0,0
 Cybergeddon,2012-09-25,PG-13,tt2189240,516783,89.0,[['Thriller']],0,0
 Generations of Freeskiing,2017-01-27,PG-13,tt6875816,516669,30.0,[['Documentary']],0,0
-Greyhound,2020-07-10,PG-13,tt6048922,516486,91.0,"[['War', 'Action', 'Drama']]",50300000,0
+Greyhound,2020-06-19,PG-13,tt6048922,516486,91.0,"[['War', 'Action', 'Drama']]",50300000,0
 Antlers,2021-02-18,R,tt7740510,516329,99.0,"[['Horror', 'Mystery']]",0,0
 Killer Looks,2017-10-15,PG-13,,516035,15.0,"[['Comedy', 'Horror']]",0,0
 The Crystal Crypt,2013-12-05,PG-13,tt3350850,515996,28.0,[['Science Fiction']],25000,0
@@ -3680,7 +3685,7 @@ I Hate Kids,2019-01-18,PG-13,tt5969180,511789,89.0,[['Comedy']],0,0
 Idle Thoughts,2018-03-14,PG-13,tt6032718,511751,100.0,"[['Comedy', 'Drama', 'Romance']]",0,0
 Say Her Name: The Life and Death of Sandra Bland,2018-04-25,R,tt8106584,511689,105.0,"[['Documentary', 'TV Movie']]",0,0
 Seconds From Disaster: 9/11,2011-09-09,PG-13,tt2081945,511666,60.0,"[['Documentary', 'History']]",0,0
-To the Beat,2018-03-13,PG,tt6237314,511562,96.0,"[['Comedy', 'Drama', 'Family']]",0,0
+To the Beat!,2018-03-13,PG,tt6237314,511562,96.0,"[['Comedy', 'Drama', 'Family']]",0,0
 The Sweetest Heart,2018-03-17,G,tt8115218,511022,90.0,"[['Romance', 'TV Movie']]",0,0
 Bird Karma,2018-11-09,G,tt7674192,510738,5.0,"[['Animation', 'Comedy']]",0,0
 Inside The Mob's Bloody Valentine,2011-01-01,PG,tt8119234,510653,45.0,"[['Documentary', 'Crime', 'History', 'TV Movie']]",0,0
@@ -3761,6 +3766,7 @@ Between Worlds,2018-12-21,R,tt7295450,500921,90.0,"[['Action', 'Mystery', 'Thril
 211,2018-06-01,R,tt4976192,500919,86.0,"[['Action', 'Drama', 'Crime']]",0,0
 A Vigilante,2018-03-10,R,tt6211976,500904,92.0,"[['Thriller', 'Drama']]",0,0
 Viper Club,2018-10-26,R,tt6388074,500869,109.0,"[['Thriller', 'Drama']]",0,0
+I'm Thinking of Ending Things,2020-09-04,R,tt7939766,500840,134.0,"[['Drama', 'Thriller']]",0,0
 Late Afternoon,2019-02-08,PG,tt7077824,500688,10.0,"[['Animation', 'Drama']]",0,0
 The Highwaymen,2019-03-15,R,tt1860242,500682,133.0,"[['Crime', 'Drama', 'Thriller']]",49000000,0
 Ryuichi Sakamoto: async Live at the Park Avenue Armory,2018-02-21,G,tt7535794,500654,65.0,"[['Documentary', 'Music']]",0,0
@@ -3776,6 +3782,7 @@ Bucky and the Squirrels,2018-01-26,PG,tt3126876,499591,82.0,[['Comedy']],1275000
 Sweet Sweet Summertime,2017-06-01,PG,tt3948080,499576,90.0,[['Family']],0,0
 A Million Little Pieces,2019-08-30,R,tt0427543,499566,113.0,[['Drama']],0,0
 Misled,2015-02-28,R,tt2343655,499301,90.0,"[['Crime', 'Drama']]",0,0
+The Man from Kathmandu,2020-08-02,PG-13,tt5364878,499234,138.0,[[]],0,0
 Skeleton Cop,2018-04-01,R,tt6430436,499189,,[[]],1000,0
 Maya the Bee: The Honey Games,2018-02-02,G,tt6685596,499088,85.0,"[['Comedy', 'Family', 'Animation', 'Adventure']]",0,0
 Never Grow Old,2019-03-15,R,tt1158939,498743,101.0,[['Western']],12000000,0
@@ -3943,7 +3950,7 @@ Michel'le: Still Standing,2017-10-20,PG,,480613,95.0,"[['History', 'Documentary'
 Wunderland,2018-02-19,PG-13,tt5815078,480465,85.0,"[['War', 'Action']]",0,0
 Shopkins - World Vacation,2017-10-05,G,tt7437462,480255,71.0,"[['Animation', 'Family']]",0,0
 47 Meters Down: Uncaged,2019-08-15,PG-13,tt7329656,480105,90.0,[['Horror']],12000000,0
-Nightmare Cinema,2018-07-12,R,tt7349910,480100,119.0,[['Horror']],0,0
+Nightmare Cinema,2019-06-21,R,tt7349910,480100,119.0,[['Horror']],0,0
 Escape Plan: The Extractors,2019-06-20,R,tt6772804,480042,97.0,"[['Action', 'Thriller']]",0,0
 Stuck,2019-04-19,PG-13,tt3696610,479869,85.0,"[['Music', 'Drama']]",0,0
 OETA's On The Record: Ken Burns,2014-09-15,G,,479812,28.0,[['Documentary']],0,0
@@ -4134,7 +4141,7 @@ Monster Hunter,2021-04-22,PG-13,tt6475714,458576,0.0,"[['Fantasy', 'Action', 'Ad
 Tour de Pharmacy,2017-07-08,NC-17,tt5886510,458506,42.0,"[['Comedy', 'TV Movie']]",0,0
 Tiger,2018-11-30,PG-13,tt4224754,458414,100.0,[['Drama']],0,0
 Flesh,2017-01-10,R,tt4319382,458384,97.0,"[['Thriller', 'Crime']]",0,0
-Vivarium,2019-07-12,R,tt8368406,458305,97.0,"[['Thriller', 'Science Fiction', 'Horror']]",4000000,0
+Vivarium,2019-09-07,R,tt8368406,458305,97.0,"[['Thriller', 'Science Fiction', 'Horror']]",4000000,0
 Lindsey Stirling: Brave Enough,2017-05-17,PG,tt6905366,458166,75.0,"[['Documentary', 'Music']]",0,0
 Spinning Man,2018-04-06,R,tt5616294,458109,100.0,"[['Mystery', 'Thriller']]",8500000,0
 Hold On,2019-12-06,PG-13,tt5371090,458104,,[['Drama']],0,0
@@ -4256,7 +4263,7 @@ Alp,2016-10-25,R,tt6209960,443488,80.0,[['Horror']],8000,0
 The Swan Princess: Royally Undercover,2017-03-26,G,tt6687748,443484,79.0,"[['Animation', 'Family', 'Adventure', 'Comedy', 'Mystery']]",0,0
 Leave No Trace,2018-06-29,PG,tt3892172,443463,110.0,[['Drama']],0,0
 American Scumbags,2016-12-16,NC-17,,443257,59.0,"[['Crime', 'Horror']]",2000,0
-Where's the Money?,2017-10-20,R,tt5716848,443076,86.0,[['Comedy']],0,0
+Where's the Money,2017-10-20,R,tt5716848,443076,86.0,[['Comedy']],0,0
 Different Flowers,2017-09-29,PG-13,tt6096194,442788,99.0,[['Comedy']],0,0
 Nostalgia,2018-02-16,R,tt6456222,442709,115.0,[['Drama']],0,0
 Sexology,2016-12-22,R,tt6574240,442495,92.0,[['Documentary']],0,0
@@ -4978,7 +4985,7 @@ Septembers of Shiraz,2015-09-15,PG-13,tt3661298,352179,110.0,"[['Drama', 'Thrill
 Left Behind: Vanished - Next Generation,2016-02-28,PG,tt4661680,352078,88.0,[['Adventure']],2000000,0
 12 Rounds 3: Lockdown,2015-09-11,R,tt3957956,351901,90.0,"[['Action', 'Thriller', 'Crime']]",0,0
 Gods of Accident,2010-05-02,R,tt1644580,351645,90.0,"[['Thriller', 'Drama', 'Mystery']]",260000,0
-Death Note,2017-08-25,NC-17,tt1241317,351460,101.0,"[['Fantasy', 'Horror', 'Mystery', 'Thriller']]",40000000,0
+Death Note 2017,2017-08-25,NC-17,tt1241317,351460,101.0,"[['Fantasy', 'Horror', 'Mystery', 'Thriller']]",40000000,0
 Urban Cowboy: The Rise and Fall of Gilley's,2015-06-13,PG-13,tt4452144,351416,81.0,"[['Documentary', 'Music']]",0,0
 The McVeigh Tapes: Confessions of an American Terrorist,2010-04-19,PG,tt1639446,351177,90.0,[['Documentary']],0,0
 Amnesiac,2015-08-14,R,tt2837336,351043,90.0,"[['Thriller', 'Mystery', 'Drama', 'Horror']]",3000000,0
@@ -5087,6 +5094,7 @@ Age Of Kill,2015-06-15,R,tt3220528,338518,85.0,[['Action']],0,0
 In Dubious Battle,2017-02-17,R,tt4411618,337844,110.0,[['Drama']],10000000,0
 Tooken,2015-05-26,R,tt3564200,337663,81.0,"[['Action', 'Comedy']]",0,0
 Another Time,2018-04-24,R,tt3451984,337426,89.0,"[['Science Fiction', 'Comedy', 'Drama', 'Romance', 'TV Movie']]",0,0
+Mulan,2020-09-04,PG-13,tt4566758,337401,115.0,"[['Drama', 'Action', 'War', 'Fantasy']]",200000000,0
 Wild in Blue,2014-05-05,R,tt3374816,337218,82.0,[['Horror']],0,0
 Romance in the Outfield,2015-02-06,PG,tt4475244,337165,91.0,[['Romance']],0,0
 Chronic,2015-10-21,R,tt3850496,337104,93.0,[['Drama']],0,0
@@ -5096,7 +5104,7 @@ Goon: Last of the Enforcers,2017-03-17,R,tt2417712,336890,101.0,[['Comedy']],0,0
 Chris D'Elia: Incorrigible,2015-04-17,R,tt4624852,336736,83.0,[['Comedy']],0,0
 Overfed & Undernourished,2014-06-04,PG,tt3759434,336696,0.0,[['Documentary']],0,0
 Paternity Leave,2015-11-24,PG-13,tt3300442,336691,90.0,"[['Comedy', 'Romance']]",0,0
-Collision Point: The Race to Clean Up Space,2014-02-25,PG-13,tt4448362,336630,22.0,[['Science Fiction']],0,0
+Collision Point: The Race to Clean Up Space,2014-02-25,PG-13,tt4448362,336630,22.0,"[['Science Fiction', 'Documentary']]",0,0
 Love Thy Nature,2014-10-14,G,tt3244466,336472,76.0,[['Documentary']],0,0
 Army of One,2016-11-04,R,tt4382824,336445,92.0,[['Comedy']],0,0
 Private Number,2015-05-01,R,tt3103412,336167,95.0,"[['Mystery', 'Horror', 'Thriller']]",0,0
@@ -5115,7 +5123,6 @@ Bullets for Jesus,2015-07-07,R,tt2315144,333783,,[[]],0,0
 Intruders,2016-01-15,R,tt4009278,333674,90.0,"[['Drama', 'Thriller', 'Horror']]",0,0
 War on Everyone,2016-10-07,R,tt3708886,333663,98.0,"[['Action', 'Comedy', 'Mystery']]",0,0
 Time Travelers 3: The Fight For Freedom,2015-07-25,PG-13,,333453,183.0,[[]],0,0
-Making a Scene,2013-11-25,PG,tt3914298,333411,10.0,[['Fantasy']],0,0
 Trentemøller: Gravity,2014-01-09,PG-13,tt3483952,333409,6.0,"[['Adventure', 'Drama', 'Fantasy', 'Music', 'Romance']]",200000,0
 The Wannabe,2015-12-04,R,tt3059816,333387,90.0,"[['Thriller', 'Mystery', 'Crime', 'Drama']]",0,0
 Stephanie,2017-04-27,R,tt3829378,333357,86.0,"[['Horror', 'Fantasy', 'Drama', 'Mystery']]",0,0
@@ -5145,7 +5152,7 @@ Bridge,2010-05-01,G,tt1712014,330093,3.0,[[]],0,0
 Blame It on the Streets,2014-12-15,PG-13,tt4225142,330078,28.0,"[['Drama', 'Music']]",0,0
 Bring It On: A Tribute to Broadway,2014-08-31,PG-13,,329761,0.0,"[['Comedy', 'Music']]",500,0
 Star Trek: Horizon,2016-02-25,PG,tt3854562,329628,103.0,[['Science Fiction']],0,0
-Unbelievable!!!!!,2016-09-26,PG,tt2180583,329621,110.0,"[['Science Fiction', 'Comedy']]",2500000,0
+Unbelievable!!!!!,2020-08-01,PG,tt2180583,329621,110.0,"[['Science Fiction', 'Comedy']]",2500000,0
 The Marine 4: Moving Target,2015-04-10,R,tt3528666,329540,90.0,"[['Action', 'Thriller']]",1950000,0
 Always Watching: A Marble Hornets Story,2015-04-07,R,tt2737926,329289,91.0,[['Horror']],0,0
 Meadowland,2015-10-16,R,tt3529656,328869,105.0,[['Drama']],0,0
@@ -5157,7 +5164,7 @@ Kept Man,2014-10-31,PG-13,tt4071550,328118,10.0,"[['Drama', 'Thriller', 'Horror'
 Roommate Wanted,2015-05-19,R,tt2401842,328070,85.0,[['Thriller']],0,0
 Skin Trade,2014-11-07,R,tt1641841,327833,96.0,"[['Thriller', 'Action', 'Drama']]",10000000,0
 Dark Minions,2013-04-19,PG-13,tt2584096,327781,25.0,"[['Science Fiction', 'Animation', 'Comedy']]",0,0
-LeapFrog Letter Factory Adventures: Amazing Word Explorers,2015-03-01,G,tt4456490,327662,0.0,[[]],0,0
+LeapFrog Letter Factory Adventures: Amazing Word Explorers,2015-03-01,G,tt4456490,327662,35.0,[[]],0,0
 The Incredible Adventure of Jojo (And His Annoying Little Sister Avila),2014-11-19,PG,tt1669818,327361,86.0,"[['Adventure', 'Comedy', 'Family']]",0,0
 The Dirt,2019-03-22,R,tt0800325,327331,108.0,"[['Drama', 'Music', 'History']]",0,0
 Babysitter's Black Book,2015-02-21,PG-13,tt4234734,326923,88.0,"[['Drama', 'TV Movie']]",0,0
@@ -5314,7 +5321,7 @@ Jason Manford: First World Problems,2014-11-17,PG-13,tt4203224,303169,80.0,[['Co
 Against the Sun,2014-11-22,PG,tt2557276,302828,99.0,"[['War', 'Adventure', 'Drama']]",0,0
 In The Name of God,2013-11-01,PG,tt3040412,302695,0.0,[['Drama']],0,0
 Strawberry Shortcake: Berry Brick Road,2012-03-06,G,tt2211007,302574,46.0,[['Animation']],0,0
-Iron Sky The Coming Race,2019-01-25,R,tt3038708,302349,93.0,"[['Action', 'Comedy', 'Fantasy', 'Science Fiction', 'Adventure']]",21000000,0
+Iron Sky: The Coming Race,2019-01-25,R,tt3038708,302349,93.0,"[['Action', 'Comedy', 'Fantasy', 'Science Fiction', 'Adventure']]",21000000,0
 The Hunter's Prayer,2017-06-08,R,tt2674358,302150,91.0,"[['Action', 'Thriller']]",17000000,0
 "Mad, Crazy, Friends",2014-10-19,R,tt4054178,301864,11.0,[['Thriller']],2500,0
 Christmas Icetastrophe,2014-12-20,PG,tt3993802,301816,82.0,"[['Drama', 'Science Fiction', 'TV Movie']]",0,0
@@ -5770,7 +5777,6 @@ Kelly & Cal,2014-03-07,R,tt3082826,253270,107.0,"[['Drama', 'Comedy']]",0,0
 Deadly Weekend,2013-08-09,R,tt1523584,253205,82.0,"[['Horror', 'Thriller']]",170000,0
 Puncture Wounds,2014-08-18,R,tt2909476,252830,96.0,"[['Action', 'Drama']]",0,0
 Baby Mama's Club,2010-01-28,R,tt1475135,252648,96.0,[['Comedy']],0,0
-Another Me,2013-11-15,PG-13,tt1816608,252529,86.0,"[['Thriller', 'Mystery', 'Horror', 'Drama']]",0,0
 American Addict,2012-05-18,PG,tt2281095,252385,98.0,[[]],0,0
 P!nk: The Truth About Love Tour - Live from Melbourne,2013-11-27,PG-13,tt3586076,252384,110.0,[['Music']],0,0
 In the Name of the King III,2013-12-27,R,tt2379386,252360,85.0,"[['Action', 'Adventure', 'Drama', 'Fantasy']]",3500000,0
@@ -6039,7 +6045,7 @@ Plush,2013-09-13,R,tt2226519,215881,98.0,[['Thriller']],0,0
 Open Grave,2013-08-13,R,tt2071550,215830,102.0,"[['Horror', 'Thriller', 'Mystery']]",0,0
 Forbidden Ground,2013-08-16,R,tt2186783,215814,95.0,"[['War', 'Action', 'Drama']]",0,0
 Young Ones,2014-06-28,R,tt2693664,215379,100.0,"[['Western', 'Action', 'Drama', 'Science Fiction']]",0,0
-Partners in Time: The Making of MIB 3,2012-11-29,PG-13,tt2872992,215279,29.0,[[]],0,0
+Partners in Time: The Making of MIB 3,2012-11-29,PG-13,tt2872992,215279,29.0,[['Documentary']],0,0
 Watermark,2013-10-11,PG,tt3106868,215032,92.0,[['Documentary']],0,0
 Things Never Said,2013-09-06,R,tt1976003,214826,111.0,[['Drama']],0,0
 Dolls of Voodoo,2013-08-13,R,tt1151914,214754,0.0,[['Thriller']],2500000,0
@@ -6196,7 +6202,7 @@ This Is Our Time,2013-03-01,PG,tt2409634,192160,104.0,[['Drama']],0,0
 Revenge for Jolly!,2012-07-17,R,tt2053423,192126,84.0,"[['Comedy', 'Drama']]",10000000,0
 The Adventures of Mickey Matson and the Copperhead Conspiracy,2016-05-09,PG,tt2088832,191975,93.0,[['Family']],0,0
 Rushlights,2013-06-21,R,tt1536437,191824,96.0,"[['Crime', 'Drama', 'Romance']]",0,0
-Jodorowsky's Dune,2013-08-30,PG-13,tt1935156,191720,90.0,"[['Documentary', 'Drama']]",0,0
+Jodorowsky's Dune,2013-08-30,PG-13,tt1935156,191720,90.0,[['Documentary']],0,0
 Crazy Kind of Love,2013-05-31,R,tt1946310,191566,100.0,"[['Comedy', 'Drama', 'Romance']]",0,0
 Bill Burr: You People Are All The Same,2012-08-16,R,tt2290153,191489,68.0,[['Comedy']],0,0
 Bradley Wiggins: A Year in Yellow,2012-11-20,PG-13,tt2542636,191290,55.0,[['Documentary']],0,0
@@ -6586,7 +6592,7 @@ Between Us,2012-09-13,R,tt1109574,137566,90.0,[['Drama']],0,0
 Mr. Bricks: A Heavy Metal Murder Musical,2011-01-01,R,tt1849824,137562,76.0,"[['Horror', 'Music', 'Crime']]",0,0
 3 Holiday Tails,2011-11-15,PG-13,tt1942787,137475,89.0,"[['Family', 'Comedy', 'Romance']]",0,0
 Least Among Saints,2012-10-12,R,tt1937222,137376,105.0,[['Drama']],0,0
-Donovan's Echo,2011-09-17,PG-13,tt1743922,137217,92.0,[['Horror']],0,0
+Donovan's Echo,2011-09-17,PG-13,tt1743922,137217,92.0,"[['Fantasy', 'Mystery', 'Drama']]",0,0
 247°F,2011-09-01,R,tt1877543,137145,88.0,"[['Horror', 'Thriller']]",650000,0
 Jeff Dunham: Minding the Monsters,2012-10-07,PG-13,tt2461736,137144,80.0,[['Comedy']],0,0
 small roads,2011-09-03,PG,tt2317089,137008,86.0,[['Documentary']],0,0
@@ -7459,7 +7465,7 @@ Trapped: Haitian Nights,2011-02-08,PG-13,tt1476428,57172,81.0,[['Thriller']],1,0
 That's What I Am,2011-04-29,PG,tt1606180,57118,101.0,"[['Comedy', 'Drama']]",5000000,0
 Costa Chica: Confession of an Exorcist,2011-01-18,R,tt0810811,57061,82.0,[['Horror']],1500000,0
 Dirty Movie,2011-02-15,R,tt1107812,56965,91.0,[['Comedy']],1150000,0
-Elle: A Modern Cinderella Tale,2011-04-26,G,tt1436372,56929,90.0,"[['Fantasy', 'Drama', 'Science Fiction', 'Family']]",250000,0
+Elle: A Modern Cinderella Tale,2010-04-26,G,tt1436372,56929,90.0,"[['Fantasy', 'Drama', 'Science Fiction', 'Family']]",250000,0
 Sacrifice,2011-04-26,R,tt1630564,56913,100.0,[['Action']],6800000,0
 Husk,2011-01-28,R,tt1504403,56906,83.0,"[['Horror', 'Thriller']]",0,0
 Chasing Legends,2010-05-10,PG-13,tt1996211,56833,95.0,[['Documentary']],0,0
@@ -7579,7 +7585,6 @@ Meskada,2010-10-03,PG-13,tt1461249,47902,98.0,"[['Crime', 'Drama', 'Mystery', 'T
 King of the Avenue,2010-09-17,R,tt0770778,47853,83.0,"[['Action', 'Adventure', 'Thriller']]",0,0
 Person of Interest,2010-10-02,PG-13,tt1208716,47640,71.0,"[['Crime', 'Drama', 'Mystery']]",0,0
 Legend of the BoneKnapper Dragon,2010-10-14,PG,tt1744776,47626,16.0,"[['TV Movie', 'Animation', 'Fantasy', 'Family']]",0,0
-The First Grader,2010-09-04,PG-13,tt0790663,47559,103.0,"[['Romance', 'Drama']]",0,0
 I Want Your Money,2010-07-06,PG,tt1560957,47546,92.0,[['Documentary']],0,0
 The Tortured,2010-06-15,R,tt1017464,47518,79.0,[['Horror']],8500000,0
 Milf,2010-10-17,R,tt1730704,47407,88.0,[['Comedy']],500000,0
